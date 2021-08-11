@@ -7289,7 +7289,7 @@
     "TEST_VIDEO": "Test video",
     "TEXT": "Text",
     "TEXTAREA_ACTIONS_MENU_LABEL": "Text area actions",
-    "TEXTAREA_PLACEHOLDER": "Message !!{channel}!!",
+    "TEXTAREA_PLACEHOLDER": "o toki lon !!{channel}!!",
     "TEXT_ACTIONS_MENU_LABEL": "Text actions",
     "TEXT_AND_IMAGES": "Text & images",
     "TEXT_CHANNEL": "Text channel",

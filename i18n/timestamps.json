@@ -2,9 +2,9 @@
     "_calendar": {
         "sameDay": "[tenpo suno ni la tenpo] LT [la]",
         "nextDay": "[[tenpo suno kama la tenpo] LT [la]] LT",
-        "nextWeek": "dddd [at] LT",
+        "nextWeek": "[tenpo] dddd [kama la tenpo] LT [la]",
         "lastDay": "[tenpo suno pini la tenpo] LT [la]",
-        "lastWeek": "[Last] dddd [at] LT",
+        "lastWeek": "[tenpo] dddd [pini la] LT [la]",
         "sameElse": "L"
     },
     "_longDateFormat": {
@@ -15,7 +15,7 @@
         "LLL": "D MMMM YYYY HH:mm",
         "LLLL": "dddd, D MMMM YYYY HH:mm"
     },
-    "_invalidDate": "Invalid date",
+    "_invalidDate": "tenpo nasin ike",
     "_dayOfMonthOrdinalParse": {},
     "_relativeTime": {
         "future": "in %s",
