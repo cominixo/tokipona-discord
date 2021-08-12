@@ -5,7 +5,7 @@
         "nextWeek": "[tenpo] dddd [kama la tenpo] LT [la]",
         "lastDay": "[tenpo suno pini la tenpo] LT [la]",
         "lastWeek": "[tenpo] dddd [pini la] LT [la]",
-        "sameElse": "L"
+        "sameElse": "[tenpo] L [la]"
     },
     "_longDateFormat": {
         "LTS": "HH:mm:ss",
