@@ -14,8 +14,13 @@ module.exports = class TokiPona extends Plugin {
   async startPlugin () {
 
     powercord.api.i18n.loadAllStrings(lang);
-    // dumb hack, only a problem with the search text
-    i18n.Messages.SEARCH = lang["en-US"].SEARCH;
+    // dumb hack for things that don't load properly with loadAllStrings
+    for (const [key, value] of Object.entries(i18n.Messages)) {
+        if (typeof i18n.Messages[key] == "string") {
+            i18n.Messages[key] = lang["en-US"][key];
+
+        }
+    }
 
     const timestampModule = await getModule(m => m.default?.displayName === "MessageTimestamp");
     inject(
