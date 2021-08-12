@@ -34,19 +34,6 @@ module.exports = class TokiPona extends Plugin {
         }
     );
 
-    const test = await getModule(m => m.default?.displayName === "SearchBar");
-    inject(
-        "search-test",
-        test,
-        "default",
-        (args, res) => {
-            console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n");
-            console.log(res);
-            return res;
-
-        }
-    );
-
   }
 
   pluginWillUnload () {
