@@ -1,0 +1,107 @@
+= discord-tokipona
+
+:url-discord: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
+:url-tenpo: https://www.reddit.com/r/tokipona/comments/mm4ezs/hard_translations/gtwjpzz
+:url-sil: https://iso639-3.sil.org/request/2021-043
+
+A work-in-progress Powercord plugin to translate Discord into Toki Pona.
+
+The strings to be translated are currently gathered from the strings present in Discord-Datamining’s
+{url-discord}[current.js], manually.
+
+== Usage
+
+[literal]
+$ cd "${XDG_DATA_HOME:=$HOME/.local/share}"/powercord/plugins
+$ git clone https://git.mutiny.red/somasis/discord-tokipona
+# -or-
+$ git clone https://github.com/somasis/discord-tokipona
+
+Then load missing plugins in Powercord, or restart it, if it's running.
+
+Make sure the plugin is enabled in the plugin section of Powercord's settings.
+
+Then, the translation should apply.
+
+For now you’ll need to use either `en-GB` or `en-US` as your client’s language to have strings
+apply, since this plugin overrides them.
+
+== Dialect and notable changes from the original repository
+
+* The language code that’s been {url-sil}[proposed to the SIL] ("tok") is used, rather than "tp-TP".
+* Uses of "kulupu" for servers/guilds have been replaced with "ma".
+  A "kulupu" is instead a category of channels ("tomo"), or it is a group DM.
+  This reduces possible ambiguities, since group messages cannot be involved with categories.
+    ** This change was made because though "kulupu" _does_ refer to "community" and "group" in lipu
+       pu, "kulupu" could be a category, or a group role within a server, or refer to groups of
+       people _within_ a server ("ma"), and so on. The distinction seems clearer.
+       Furthermore, Discord, unlike IRC’s notion of networks (which I would call "ma"), servers
+       (which I’d call "kulupu"), and channels ("tomo"), does _not_ decentralize the idea of the
+       place hosting the server, instead making the largest distinguisher be the server.
+       It’d perhaps be better to say a server within Discord would be "ma lon nasin/ilo Siko" rather
+       than "kulupu lon ma Discord".
+* "toki wile" vs. "toki kama"
+    ** Mentions are "toki wile".
+       Messages of desire, or desirious messages, because ultimately a mention is a message sent for
+       want of the person who is being mentioned.
+    ** Notifications are "toki kama".
+       They are messages that bring about your awareness of themselves.
+    ** In the original repository these definitions are switched around; I think "toki wile" comes
+       across more obviously at first glance as being a mention, since often the person reading it
+       will be the person who has been mentioned recently.
+       While they _could_ apply to both, notifications appear more immediately to me as not having
+       an aspect of desire to them, other than a desire to be read.
+       Which would likely be because it's a mention.
+* Number representation.
+  In the original, no work was done pona-izing numbers, whereas this translation will use words from
+  numbers 0 through 10, and any larger simply displaying numeral amounts.
+  The number system used tries to be very neutral: pu extended.
+  ala (0), wan (1), tu (2), tu wan (3), tu tu (4), luka (5), luka wan (6), luka tu (7),
+  luka tu wan (8), luka tu tu (9), luka luka (10).
+    ** Time representation is a different story.
+       As of now, to keep the specific times and avoid obscuring information the client is giving
+       to the user, for seconds/minutes/hours, tenpo Sekunta/Minuta/Ola is used.
+       {url-tenpo}[This is a way suggested in the past by jan Lentan], which I think does well
+       enough without forcing people to learn a different time system, or being unclear.
+* Non-pu words are kept as minimal as possible, for dialectical neutrality, as jan Sonja's dialect
+  as shown in pu is essentially the lowest common denominator for speaking.
+    ** "linja" is used for referring to connections and URLs, as its most common alternate meanings
+       are lines and connections.
+    ** I cannot make the same guarantee for the grammar choices; I studied for a while before
+       getting my hands on lipu pu, so I am probably not staying entirely true to its grammar
+       and preverbs.
+       If you have any patches to send in for making the dialect more pu-like (without making things
+       less clear, or long-winded), I welcome them.
+
+== Things left untranslated
+
+* Emojis.
+  I'm not sure how this would be changed but I don't really think it's worth the effort to try and
+  translate _every single emoji name and shortcode_ into Toki Pona right now.
+  That is a different project.
+* Billing and other money related aspects of Discord Nitro.
+  I don't want to be left on the hook for a misinterpretation here.
+  Perhaps some time in the future, but not now.
+* Powercord's settings.
+  It's probably not difficult to do but I've just not bothered to look into how to do that yet.
+
+== Known issues
+
+Sometimes translations don't fully apply--I think this is some sort of dynamic string loading that
+is going on.
+I've noticed it so far with the status changing window, mostly.
+Occasionally the "Active Now" panel is affected.
+
+image:./img/status_changer.png[] image:./img/active_now.png[]
+
+As far as I can tell, all the strings displayed in these images _should_ be showing up properly
+translated; I've not been able to find any other instances of these strings in the datamined source.
+
+Patches are accepted for fixing this as I don't have much experience writing Javascript myself.
+
+== Contributing and acknowledgments
+
+I am an intermediate speaker. Please submit changes to improve the translation!
+
+Thanks to https://github.com/cominixo/tokipona-discord[jan Komi] for the original work, which
+provided the basis for this project.
