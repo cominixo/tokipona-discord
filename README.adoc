@@ -52,6 +52,10 @@ apply, since this plugin overrides them.
        While they _could_ apply to both, notifications appear more immediately to me as not having
        an aspect of desire to them, other than a desire to be read.
        Which would likely be because it's a mention.
+* "kule" is used for meaning "type".
+  In the original, "nasin jan" was used for roles; in this, "kule" is used.
+  I think "kule" is clearer in terms of its usage as "type" than "nasin jan" is; this usage is
+  also applied to terms like "file type", which is instead "kule lipu".
 * Number representation.
   In the original, no work was done pona-izing numbers, whereas this translation will use words from
   numbers 0 through 10, and any larger simply displaying numeral amounts.
