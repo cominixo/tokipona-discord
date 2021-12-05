@@ -11,6 +11,10 @@ The strings to be translated are currently gathered from the strings present in 
 
 == Usage
 
+Clone this repository into your Powercord plugins directory (it can be opened from the plugin
+manager in the client).
+
+.Unix-like systems
 [literal]
 $ cd "${XDG_DATA_HOME:=$HOME/.local/share}"/powercord/plugins
 $ git clone https://git.mutiny.red/somasis/discord-tokipona
