@@ -307,6 +307,7 @@
     "REPLYING_TO": "ni la o toki tawa $[](userHook)",
     "REPLY_MENTION_OFF": "wile ala",
     "REPLY_MENTION_ON": "wile",
+    "REPLY_QUOTE_MESSAGE_NOT_LOADED": "toki ni li pakala.",
     "RESET_FRIEND_NICKNAME": "o weka e nimi pona",
     "RESET_NICKNAME": "o weka e ante pi nimi pona",
     "RESET_NOTIFICATION_SETTINGS": "wile pi toki kama li weka",
