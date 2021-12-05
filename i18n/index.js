@@ -6,4 +6,4 @@ require('fs')
         exports['en-GB'] = require(`${__dirname}/${filename}`);
         exports['en-US'] = require(`${__dirname}/${filename}`);
     }
-  }); 
+  });
