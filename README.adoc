@@ -7,8 +7,8 @@
 
 xref:README.en.adoc[There's an English version of this README].
 
-ona li namako tawa namako ilo Poweko (nimi Powercord lon toki Inli).
-ona li pana e toki pona tawa ilo Siko (nimi Discord lon toki Inli).
+ni li namako tawa namako ilo Poweko (nimi Powercord lon toki Inli).
+namako ni li pana e toki pona tawa ilo Siko (nimi Discord lon toki Inli).
 
 tan pi toki mama li ni: lipu kon {url-discord}[current.js], tan kulupu Discord-Datamining.
 toki ni li sama kepeken ala ilo.
