@@ -33,8 +33,8 @@ apply, since this plugin overrides them.
   A "kulupu" is instead a category of channels ("tomo"), or it is a group DM.
   This reduces possible ambiguities, since group messages cannot be involved with categories.
     ** This change was made because though "kulupu" _does_ refer to "community" and "group" in lipu
-       pu, "kulupu" could be a category, or a group role within a server, or refer to groups of
-       people _within_ a server ("ma"), and so on. The distinction seems clearer.
+       pu, "kulupu" could be a category, or refer to groups of people _within_ a server ("ma"), and
+       so on. The distinction seems clearer.
        Furthermore, Discord, unlike IRC’s notion of networks (which I would call "ma"), servers
        (which I’d call "kulupu"), and channels ("tomo"), does _not_ decentralize the idea of the
        place hosting the server, instead making the largest distinguisher be the server.
