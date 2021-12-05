@@ -1,11 +1,11 @@
 {
     "_calendar": {
-        "sameDay": "[tenpo suno ni la tenpo] LT [la]",
-        "nextDay": "[[tenpo suno kama la tenpo] LT [la]] LT",
-        "nextWeek": "[tenpo] dddd [kama la tenpo] LT [la]",
-        "lastDay": "[tenpo suno pini la tenpo] LT [la]",
-        "lastWeek": "[tenpo] dddd [pini la] LT [la]",
-        "sameElse": "[tenpo] L [la]"
+        "sameDay": "[tenpo suno ni la tenpo] LT",
+        "nextDay": "[[tenpo suno kama la tenpo] LT] LT",
+        "nextWeek": "[tenpo] dddd [kama la tenpo] LT",
+        "lastDay": "[tenpo suno pini la tenpo] LT",
+        "lastWeek": "[tenpo] dddd [pini la] LT",
+        "sameElse": "[tenpo] L"
     },
     "_longDateFormat": {
         "LTS": "HH:mm:ss",
