@@ -329,7 +329,7 @@
     "RECENT_MENTIONS_FILTER_EVERYONE": "toki wile @everyone",
     "RECENT_MENTIONS_FILTER_ROLES": "toki wile @kule",
     "REMOVE": "o weka",
-    "REMOVE_FRIEND": "o weka e jan pona",
+    "REMOVE_FRIEND": "o weka e jan pona ni",
     "REMOVE_ICON": "o weka e sitelen",
     "REPLYING_TO": "ni la o toki tawa $[](userHook)",
     "REPLY_MENTION_OFF": "wile ala",
