@@ -239,6 +239,7 @@
     "LEAVE_SERVER_TITLE": "o weka tan '!!{name}!!'",
     "LEAVE_THREAD": "o weka tan tomo lili",
     "LINUX": "nasin Linu",
+    "LISTENING_TO": "li kute e **!!{name}!!**",
     "LOADING_NOTE": "sitelen li kama...",
     "LOGOUT": "o weka",
     "MACOS": "nasin MakeOse",
