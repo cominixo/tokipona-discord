@@ -74,6 +74,9 @@ apply, since this plugin overrides them.
 * Billing and other money related aspects of Discord Nitro.
   I don't want to be left on the hook for a misinterpretation here.
   Perhaps some time in the future, but not now.
+* Names of connections. (ex. Battle.net, Facebook, GitHub)
+  Usually, these names can't be changed by this plugin's translation method;
+  most occurences are not in the `en-US` strings.
 * Powercord's settings.
   It's probably not difficult to do but I've just not bothered to look into how to do that yet.
 
