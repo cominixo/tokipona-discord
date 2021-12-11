@@ -25,7 +25,7 @@
     "ACTIVITY_FEED_NOW_PLAYING_IN_A_VOICE_CHANNEL": "li lon tomo pi toki uta",
     "ACTIVITY_FEED_NOW_PLAYING_SPOTIFY": "li kute e ilo Posipa",
     "ACTIVITY_FEED_USER_PLAYING_FOR_DAYS": "!!{name}!! – tenpo suno {time}",
-    "ACTIVITY_FEED_USER_PLAYING_FOR_HOURS": "!!{name}!! – tenpo Ora {time}",
+    "ACTIVITY_FEED_USER_PLAYING_FOR_HOURS": "!!{name}!! – tenpo Ola {time}",
     "ACTIVITY_FEED_USER_PLAYING_FOR_MINUTES": "!!{name}!! – tenpo Minuta {time}",
     "ACTIVITY_FEED_USER_PLAYING_JUST_STARTED": "!!{name}!! - lon",
     "ACTIVITY_PARTY_PRIVACY": "wawa lon",
