@@ -1,16 +1,17 @@
 = namako discord-tokipona
 
 :lang: tok
-:url-discord: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
+:url-powercord: https://powercord.dev/
+:url-datamining: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
 :url-tenpo: https://www.reddit.com/r/tokipona/comments/mm4ezs/hard_translations/gtwjpzz
 :url-sil: https://iso639-3.sil.org/request/2021-043
 
 xref:README.en.adoc[There's an English version of this README].
 
-ni li namako tawa namako ilo Poweko (nimi Powercord lon toki Inli).
+ni li namako tawa namako {url-powercord}[ilo Poweko] (nimi Powercord lon toki Inli).
 namako ni li pana e toki pona tawa ilo Siko (nimi Discord lon toki Inli).
 
-tan pi toki mama li ni: lipu kon {url-discord}[current.js], tan kulupu Discord-Datamining.
+tan pi toki mama li ni: lipu kon {url-datamining}[current.js], tan kulupu Discord-Datamining.
 toki ni li sama kepeken ala ilo.
 
 == kepeken
