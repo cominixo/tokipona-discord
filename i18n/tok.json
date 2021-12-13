@@ -1,6 +1,6 @@
 {
     "ABOUT_THIS_APP": "ijo suli pi ilo ni",
-    "ACCESSIBILITY": "nasin pi kepeken pona",
+    "ACCESSIBILITY": "kepeken pona",
     "ACCESSIBILITY_DARK_SIDEBAR": "pimeja poka",
     "ACCESSIBILITY_FONT_SCALING_LABEL": "mute linja",
     "ACCESSIBILITY_MESSAGE_GROUP_SPACING": "ala poka kulupu toki",
@@ -58,6 +58,7 @@
     "AKA": "KIN",
     "ALL_ACTIVE_THREADS": "tomo lili lon ale",
     "APPEARANCE": "selo ilo",
+    "APPEARANCE_SETTINGS_ACCESSIBILITY_LINK": "sina ken ala alasa e wile sina? o lukin e nasin pi [kepeken pona](onAccessibilityClick).",
     "APPLICATIONS_AND_CONNECTIONS": "ilo en linja",
     "APPLICATIONS_AND_CONNECTIONS_BODY": "ilo ni li kepeken lipu jan sina pi ilo Siko. sina wile la, sina ken weka e linja ni.",
     "APPLICATION_LIBRARY_INVENTORY": "poki pi ijo pana",
