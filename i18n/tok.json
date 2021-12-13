@@ -62,6 +62,7 @@
     "APPEARANCE_SETTINGS_ACCESSIBILITY_LINK": "sina ken ala alasa e wile sina? o lukin e nasin pi [kepeken pona](onAccessibilityClick).",
     "APPLICATIONS_AND_CONNECTIONS": "ilo en linja",
     "APPLICATIONS_AND_CONNECTIONS_BODY": "ilo ni li kepeken lipu jan sina pi ilo Siko. sina wile la, sina ken weka e linja ni.",
+    "APPLICATION_COMMAND_EDUCATION": "o lukin pali toki (/command)! ni li nasin sin pi kepeken ilo. [o weka](dismissOnClick)",
     "APPLICATION_COMMAND_USED_SHORT": "$[](userHook) li kepeken pali toki $[](commandHook)",
     "APPLICATION_COMMAND_WAITING": "!!{applicationName}!! li pali...",
     "APPLICATION_LIBRARY_INVENTORY": "poki pi ijo pana",
