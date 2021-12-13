@@ -5,6 +5,7 @@
 :url-datamining: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
 :url-tenpo: https://www.reddit.com/r/tokipona/comments/mm4ezs/hard_translations/gtwjpzz
 :url-sil: https://iso639-3.sil.org/request/2021-043
+:url-mapona: https://discord.gg/z24kPmVZKw
 
 xref:README.en.adoc[There's an English version of this README].
 
@@ -108,6 +109,10 @@ sina wile la sina ken pana e pona tawa mi.
 
 mi toki pona lili.
 mi wile e ni: o pona e toki mi!
+
+sina wile kama sona mute e namako ni? {url-mapona}[o kama lon ma pona pi toki pona lon ilo Siko].
+mi lon tomo lili `ante-toki-pi-ilo-Siko`; tomo lili ni li lon anpa tomo `#pali-musi`.
+lon tomo ni la mi mute li toki pi pali namako.
 
 https://github.com/cominixo/tokipona-discord[jan Komi] o, sina pona tawa mama pali.
 pali sina li pana e ma pona tawa pali ni.

@@ -5,6 +5,7 @@
 :url-datamining: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
 :url-tenpo: https://www.reddit.com/r/tokipona/comments/mm4ezs/hard_translations/gtwjpzz
 :url-sil: https://iso639-3.sil.org/request/2021-043
+:url-mapona: https://discord.gg/z24kPmVZKw
 
 xref:README.adoc[o lukin e lipu ni lon toki pona].
 
@@ -95,6 +96,11 @@ translated; I've not been able to find any other instances of these strings in t
 Patches are accepted for fixing this as I don't have much experience writing Javascript myself.
 
 == Contributing and acknowledgments
+
+Do you want to learn more about this plugin?
+{url-mapona}[Learn more on the _ma pona pi toki pona_ Discord server].
+We're in the `ante-toki-pi-ilo-Siko` thread; this thread is under the `#pali-musi` channel.
+We talk about working on the plugin in this thread.
 
 I am an intermediate speaker. Please submit changes to improve the translation!
 
