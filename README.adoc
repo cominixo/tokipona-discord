@@ -33,7 +33,7 @@ sina wile e ni: lon namako lawa pi ilo Poweko la namako ni li lon.
 
 ale ni la toki ante li lon.
 
-tenpo ni la ilo Siko sina la sina wile kepeken e toki `en-GB` anu toki `en-US` lon toki ilo.
+tenpo ni la ilo Siko sina la sina wile kepeken toki `en-GB` anu kepeken toki `en-US` lon toki ilo.
 ni li tan ni: namako ni li ante e toki pi kon ni.
 
 == toki mi
@@ -43,11 +43,11 @@ ni li tan ni: namako ni li ante e toki pi kon ni.
   tan ni la, mi pana e nimi "toki wile" tawa toki ni.
 * nimi "Notifications" (lon toki Inli) li nimi "toki kama".
   toki ni li kama e lukin sina pi toki ni.
-* mi kepeken e nimi "kule" tawa toki e ni: nimi "type" (lon toki Inli).
+* mi kepeken nimi "kule" tawa toki e ni: nimi "type" (lon toki Inli).
   wile ni la mi pilin e ni: nimi "kule" li pona. nimi "nasin jan" li pona ala.
   nimi "kule" li kepeken kin e nasin lipu.
 * nanpa lukin.
-  toki ante ni li kepeken e nimi tawa nanpa poka 0 tawa 10.
+  toki ante ni li kepeken nimi tawa nanpa poka 0 tawa 10.
   nanpa ante ale li nanpa lukin (nasin nanpa Alapi).
   nasin nanpa lon li lukin nasin pi nasa ala: pu namako ("pu extended" lon toki Inli).
   ala (0), wan (1), tu (2), tu wan (3), tu tu (4), luka (5), luka wan (6), luka tu (7),
