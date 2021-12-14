@@ -3,7 +3,6 @@
 :lang: tok
 :url-powercord: https://powercord.dev/
 :url-datamining: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
-:url-tenpo: https://www.reddit.com/r/tokipona/comments/mm4ezs/hard_translations/gtwjpzz
 :url-sil: https://iso639-3.sil.org/request/2021-043
 :url-mapona: https://discord.gg/z24kPmVZKw
 
@@ -55,10 +54,8 @@ ni li tan ni: namako ni li ante e toki pi kon ni.
   luka tu wan (8), luka tu tu (9), luka luka (10).
     ** tenpo lukin li ante.
        mi wile awen e tenpo nanpa e sona tan ilo Siko.
-       tan ni la, mi kepeken e nimi "seconds" e nimi "minutes" e nimi "hours", lon toki Inli.
-       nimi ni li tenpo Sekunta/Minuta/Ola lon toki pona.
-       {url-tenpo}[nasin ni li tan jan Lentan], tan ni la mi pilin e ni: nasin ni li meso (pona ala,
-       taso la ike ala).
+       tan ni la, toki mi li kepeken lon toki Inli e nimi "seconds" e nimi "minutes" e nimi "hours".
+       nimi ni lon toki pona li tenpo ilo lili lili, li tenpo ilo lili, li tenpo ilo suli.
        nasin ni la jan kepeken li wile ala sona e nasin tenpo sin.
        nasin ni la kama sona pi toki ni li pona.
 * mute pi nimi tan pu ala li lili. tan ni la, ni li lon: nasin nimi li pona. kama sona pi nimi ni

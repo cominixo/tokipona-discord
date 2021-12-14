@@ -3,7 +3,6 @@
 :lang: en-US
 :url-powercord: https://powercord.dev/
 :url-datamining: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
-:url-tenpo: https://www.reddit.com/r/tokipona/comments/mm4ezs/hard_translations/gtwjpzz
 :url-sil: https://iso639-3.sil.org/request/2021-043
 :url-mapona: https://discord.gg/z24kPmVZKw
 
@@ -53,9 +52,9 @@ apply, since this plugin overrides them.
   luka tu wan (8), luka tu tu (9), luka luka (10).
     ** Time representation is a different story.
        As of now, to keep the specific times and avoid obscuring information the client is giving
-       to the user, for seconds/minutes/hours, tenpo Sekunta/Minuta/Ola is used.
-       {url-tenpo}[This is a way suggested in the past by jan Lentan], which I think does well
-       enough without forcing people to learn a different time system, or being unclear.
+       to the user, for minutes and hours, tenpo ilo lili and tenpo ilo suli are used.
+       This way is works well enough without requiring people to learn a different time system,
+       or being unclear.
 * Non-pu words are kept as minimal as possible, for dialectical neutrality, as jan Sonja's dialect
   as shown in pu is essentially the lowest common denominator for speaking.
     ** "linja" is used for referring to connections and URLs, as its most common alternate meanings
