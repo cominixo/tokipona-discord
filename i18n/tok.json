@@ -294,7 +294,7 @@
     "GUILD_EVENT_DETAILS_USER_LIST_TAB_TITLE": "jan wile {userCount, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}}",
     "GUILD_EVENT_INTERESTED_COUNT": "jan {count, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {#}} li wile",
     "GUILD_EVENT_MODAL_EMPTY_SUBTITLE": "ma sina li jo e tenpo wile la, o pali e tenpo kama.",
-    "GUILD_EVENT_MODAL_EMPTY_TITLE": "tenpo kama li lon ala.",
+    "GUILD_EVENT_MODAL_EMPTY_TITLE": "ma ni li jo ala e tenpo kama.",
     "GUILD_EVENT_ROLE_TIP": "sina ken pana e ken pi tenpo pali tawa jan ante. o lukin e **[nasin ma > kule](onClick)**.",
     "GUILD_EVENT_TOOLTIP_COPY_INVITE": "o pana e linja tawa lipu tenpo ni lon ma ni",
     "GUILD_PREMIUM": "lon pi ma wawa",
