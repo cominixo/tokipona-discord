@@ -339,8 +339,10 @@
     "JOIN_GUILD": "o kama lon",
     "JOIN_THREAD": "o kama lon e tomo lili",
     "JUMP": "o tawa",
+    "JUMP_BAR_VIEWING_REPLY": "sina lukin e mama pi toki tawa ni.",
     "JUMP_TO_CHANNEL": "o tawa tomo",
     "JUMP_TO_MESSAGE": "o tawa toki",
+    "JUMP_TO_ORIGINAL_MESSAGE": "o tawa mama pi tawa sina.",
     "JUMP_TO_PRESENT": "o tawa tenpo lon",
     "JUMP_TO_REPLY": "o tawa toki",
     "KEYBINDS": "pali pi ilo nena",
@@ -757,5 +759,6 @@
     "WIDGET": "poki lukin",
     "WINDOWS": "nasin Winto",
     "WORKING": "ilo li pali...",
-    "WUMPUS": "soweli Wumpus"
+    "WUMPUS": "soweli Wumpus",
+    "YOURE_VIEWING_OLDER_MESSAGES": "sina lukin e toki pi tenpo pini."
 }
