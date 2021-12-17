@@ -667,7 +667,7 @@
     "UPLOAD_FILE_SUBTEXT": "ken wawa: o luka tu e nena $[](icon)",
     "USERNAME": "nimi",
     "USER_ACTIVITY_CONNECT_PLATFORM": "o linja e ilo {platform}",
-    "USER_ACTIVITY_HEADER_LISTENING": "li lon kute e ilo !!{name}!!",
+    "USER_ACTIVITY_HEADER_LISTENING": "li kute e !!{name}!!",
     "USER_ACTIVITY_HEADER_PLAYING": "li lon musi",
     "USER_ACTIVITY_LISTENING_ALBUM": "kulupu $[!!{album}!!](albumHook)",
     "USER_ACTIVITY_LISTENING_ARTISTS": "mama $[!!{artists}!!](artistsHook)",
