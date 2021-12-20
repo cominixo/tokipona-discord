@@ -95,7 +95,7 @@ tenpo lili la mi lukin e pakala ni lon tomo pi pali lon
 image:./img/status_changer.png[] image:./img/active_now.png[]
 
 sona mi ale la toki lon sitelen ni li wile jo e toki ante.
-lon kon pi ilo Disko la mi sona ala e lon mama pi toki ni.
+lon kon pi ilo Siko la mi sona ala e lon mama pi toki ni.
 mi ante e toki ale lon sitelen ni.
 
 mi sona lili e nasin JavaScript.
