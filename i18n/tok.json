@@ -661,6 +661,8 @@
     "STREAM_SHOW_NON_VIDEO": "o lukin e jan pi sitelen ala",
     "SWITCH_TO_COMPACT_MODE": "o kepeken kule lili",
     "SWITCH_TO_COZY_MODE": "o kepeken kule suwi",
+    "SYSTEM_MESSAGE_CHANNEL_NAME_CHANGE": "[!!{username}!!](usernameOnClick) li ante e nimi pi tomo ni: **!!{channelName}!!**",
+    "SYSTEM_MESSAGE_CHANNEL_NAME_CHANGE2": "$[!!{username}!!](usernameHook) li ante e nimi pi tomo ni: **!!{channelName}!!**",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_001": "[!!{username}!!](usernameOnClick) li kama lon musi ni.",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_001_HOOK": "$[!!{username}!!](usernameHook) li kama lon musi ni.",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_002": "[!!{username}!!](usernameOnClick) li lon.",
