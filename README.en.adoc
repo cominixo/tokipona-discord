@@ -71,9 +71,6 @@ apply, since this plugin overrides them.
   I'm not sure how this would be changed but I don't really think it's worth the effort to try and
   translate _every single emoji name and shortcode_ into Toki Pona right now.
   That is a different project.
-* Billing and other money related aspects of Discord Nitro.
-  I don't want to be left on the hook for a misinterpretation here.
-  Perhaps some time in the future, but not now.
 * Names of connections. (ex. Battle.net, Facebook, GitHub)
   Usually, these names can't be changed by this plugin's translation method;
   most occurences are not in the `en-US` strings.
