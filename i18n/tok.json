@@ -179,6 +179,7 @@
     "CREATE_CATEGORY": "o pali e kulupu tomo",
     "CREATE_CHANNEL": "o pali e tomo",
     "CREATE_CHANNEL_IN_CATEGORY": "o pali e tomo lon !!{categoryName}!!",
+    "CREATE_DM": "o pali e toki",
     "CREATE_GUILD_WITH_TEMPLATES_TITLE": "o pali e ma",
     "CREATE_INSTANT_INVITE": "o pali e lipu kama",
     "CREATE_TEXT_CHANNEL": "o pali e tomo sitelen",
