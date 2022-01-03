@@ -60,11 +60,17 @@ ni li tan ni: namako ni li ante e toki pi kon ni.
        nasin ni la kama sona pi toki ni li pona.
 * mute pi nimi tan pu ala li lili. tan ni la, ni li lon: nasin nimi li pona. kama sona pi nimi ni
   li pona.
-  nasin toki pi jan Sonja li lon lipu pu, tan ni la, jan ale li sona e toki mi.
+  nasin toki pi jan Sonja li lon _lipu pu_, tan ni la, jan ale li sona e toki mi.
+    ** nasin ni li tan lili ni: mi wile ala pali e ni tawa ma pona pi toki pona taso.
+       namako ni li tawa jan ale, tawa jan lon ala ma pona, tawa jan ale lon ilo Siko.
+       nasin pu li awen e ni: nasin ni li wile ala e jan pi nasin wan.
+       nasin ni li wile e jan pi nasin ale.
+       _nimi ku suli_ li lon ala namako ni. sona pi nimi ni li tan ma pona pi toki pona la,
+       mi wile ala kepeken nimi ni. nimi ku suli li ike ala, taso la, lon pi nimi ni li suli ala.
     ** nimi "linja" li toki e ni: ijo URL en nimi "connection" (lon toki Inli).
-       toki ni li lon ala lipu pu. tenpo pu la tan pi toki ni li tenpo pini.
+       toki ni li lon ala _lipu pu_. tenpo pu la tan pi toki ni li tenpo pini.
     ** mi ken ala pilin e sama tawa nasin toki. ("grammar" lon toki Inli).
-       tenpo pini la mi jo ala e lipu pu la, taso la mi kama sona e toki pona.
+       tenpo pini la mi jo ala e _lipu pu_ la, taso la mi kama sona e toki pona.
        ken la nasin toki mi li pu ala, nasin pi toki pali open ("preverbs" lon toki Inli) li pu ala.
        sina wile pona e ni la, mi wile e pona sina. o pana e pona tawa mi!
 

@@ -56,11 +56,16 @@ apply, since this plugin overrides them.
        This way is works well enough without requiring people to learn a different time system,
        or being unclear.
 * Non-pu words are kept as minimal as possible, for dialectical neutrality, as jan Sonja's dialect
-  as shown in pu is essentially the lowest common denominator for speaking.
+  as shown in _pu_ is essentially the lowest common denominator for speaking.
+    ** This is in part from me not wanting to do this only for the _ma pona pi toki pona_ Discord.
+       This plugin is for all people, be they in _ma pona_ or not.
+       A _pu_ dialect ensures that it does not get biased one way or the other.
+       _nimi ku suli_ are not used as well, as _ku_ was based entirely off of _ma pona pi toki pona_
+       surveying, thus it seems better to avoid it as since most of the words aren't crucial anyway.
     ** "linja" is used for referring to connections and URLs, as its most common alternate meanings
        are lines and connections.
     ** I cannot make the same guarantee for the grammar choices; I studied for a while before
-       getting my hands on lipu pu, so I am probably not staying entirely true to its grammar
+       getting my hands on _lipu pu_, so I am probably not staying entirely true to its grammar
        and preverbs.
        If you have any patches to send in for making the dialect more pu-like (without making things
        less clear, or long-winded), I welcome them.
