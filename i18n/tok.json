@@ -772,6 +772,8 @@
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_012_HOOK": "$[!!{username}!!](usernameHook) o, lukin pi lon sina li pana e pilin pona tawa mi.",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_013": "a! [!!{username}!!](usernameOnClick) o, sina lon!",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_013_HOOK": "a! $[!!{username}!!](usernameHook) o, sina lon!",
+    "SYSTEM_MESSAGE_GUILD_MEMBER_SUBSCRIBED": "[!!{username}!!](usernameOnClick) li kama wawa e ma!",
+    "SYSTEM_MESSAGE_GUILD_MEMBER_SUBSCRIBED_HOOK": "$[!!{username}!!](usernameHook) li kama wawa e ma!",
     "SYSTEM_MESSAGE_THREAD_CREATED": "$[!!{actorName}!!](actorHook) li open e tomo lili **[!!{threadName}!!](threadOnClick)**. o lukin e [tomo lili ale](viewThreadsOnClick).",
     "TEXTAREA_PLACEHOLDER": "o toki lon tomo !!{channel}!!",
     "TEXT_AND_IMAGES": "sitelen toki",
