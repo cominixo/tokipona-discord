@@ -752,6 +752,8 @@
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_002_HOOK": "$[!!{username}!!](usernameHook) li lon.",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_003": "[!!{username}!!](usernameOnClick) o, kama pona. mi wile e ni: sina pana e mulapisu tawa mi.",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_003_HOOK": "$[!!{username}!!](usernameHook) o, kama pona. mi wile e ni: sina pana e mulapisu tawa mi.",
+    "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_004": "o lukin! [!!{username}!!](usernameOnClick) li kama lon tan ala!",
+    "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_004_HOOK": "o lukin! $[!!{username}!!](usernameHook) li kama lon tan ala!",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_005": "tenpo lon la [!!{username}!!](usernameOnClick) li kama lon selo ma.",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_005_HOOK": "tenpo lon la $[!!{username}!!](usernameHook) li kama lon selo ma.",
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_006": "tenpo lon la [!!{username}!!](usernameOnClick) li kama lon ma ni kepeken tawa pi akesi linja.",
