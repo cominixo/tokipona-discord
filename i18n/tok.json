@@ -328,7 +328,7 @@
     "FRIENDS": "jan pona",
     "FRIENDS_ALL_HEADER": "jan pona ale — {count, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}}",
     "FRIENDS_BLOCKED_HEADER": "jan ike — {count, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}}",
-    "FRIENDS_EMPTY_STATE_ALL": "soweli Wumpus li awen. ona li wile jan pona. taso la sina wile ala awen!",
+    "FRIENDS_EMPTY_STATE_ALL": "soweli Wumpus li awen. ona li wile e jan pona. taso la sina wile ala awen!",
     "FRIENDS_EMPTY_STATE_PENDING": "sina jo ala e jan pona kama. taso la, soweli Wumpus li lon.",
     "FRIENDS_OFFLINE_HEADER": "lon ala — {offline, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{offline}}}",
     "FRIENDS_ONLINE_HEADER": "lon — {online, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{online}}}",
