@@ -11,7 +11,7 @@ xref:README.adoc[o lukin e lipu ni lon toki pona].
 A work-in-progress {url-powercord}[Powercord] plugin to translate Discord into Toki Pona.
 
 The strings to be translated are currently gathered from the strings present in Discord-Datamining’s
-{url-datamining}[current.js], manually.
+{url-datamining}[current.js] and are stored in `english.json`.
 
 == Usage
 

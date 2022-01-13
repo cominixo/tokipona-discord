@@ -11,8 +11,8 @@ xref:README.en.adoc[There's an English version of this README].
 ni li namako tawa namako {url-powercord}[ilo Poweko] (nimi Powercord lon toki Inli).
 namako ni li pana e toki pona tawa ilo Siko (nimi Discord lon toki Inli).
 
-tan pi toki mama li ni: lipu kon {url-datamining}[current.js], tan kulupu Discord-Datamining.
-toki ni li sama kepeken ala ilo.
+tan pi toki mama li lipu kon {url-datamining}[current.js], tan kulupu Discord-Datamining.
+sina ken lukin e lipu pi toki mama lon lipu `english.json`.
 
 == kepeken
 
