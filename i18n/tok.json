@@ -203,7 +203,7 @@
     "CREATE_DM": "o pali e toki",
     "CREATE_GUILD_WITH_TEMPLATES_TITLE": "o pali e ma",
     "CREATE_INSTANT_INVITE": "o pali e lipu pi jan wile",
-    "CREATE_SERVER_DEFAULT_SERVER_NAME_FORMAT": "ma pi {username}",
+    "CREATE_SERVER_DEFAULT_SERVER_NAME_FORMAT": "ma \"{username}\"",
     "CREATE_SERVER_GUIDELINES": "o lukin e **[lipu pi lawa kulupu]({guidelinesURL})**. ni li lawa e kulupu sina",
     "CREATE_TEXT_CHANNEL": "o pali e tomo sitelen",
     "CREATE_THREAD": "o pali e tomo lili",
