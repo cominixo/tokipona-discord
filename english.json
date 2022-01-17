@@ -3603,7 +3603,7 @@
     "GUILD_IDENTITY_SETTINGS_PER_GUILD_BANNER": "Server Profile Banner",
     "GUILD_IDENTITY_SETTINGS_TITLE_2": "Server Profile - $[](guildIconHook) !!{guildName}!!",
     "GUILD_IDENTITY_SETTINGS_UPSELL": "Set a different avatar, profile banner, and about me in each of your servers and more with [Discord Nitro!](onAndMore)",
-    "GUILD_IDENTITY_SETTINGS_UPSELL_NO_LINK": "Express yourself even more in this server by unlocking all the profile customizations with Nitro.",
+    "GUILD_IDENTITY_SETTINGS_UPSELL_NO_LINK": "Need more? Get full server profile customization with Nitro.",
     "GUILD_IDENTITY_UPSELL_MODAL_BODY": "Be who you want and use a different avatar, banner, and bio in each of your servers, unlock animated avatars, and more with [Discord Nitro!](onAndMore)",
     "GUILD_IDENTITY_UPSELL_MODAL_TITLE": "Want full access to server profiles?",
     "GUILD_INVITE_BACKGROUND": "Guild Invite Background",
