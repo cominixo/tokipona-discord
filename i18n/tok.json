@@ -205,7 +205,7 @@
     "CREATE_INSTANT_INVITE": "o pali e lipu pi jan wile",
     "CREATE_SERVER_DEFAULT_SERVER_NAME_FORMAT": "ma \"{username}\"",
     "CREATE_SERVER_GUIDELINES": "o lukin e **[lipu pi lawa kulupu]({guidelinesURL})**. ni li lawa e kulupu sina",
-    "CREATE_TEXT_CHANNEL": "o pali e tomo sitelen",
+    "CREATE_TEXT_CHANNEL": "o pali e tomo pi toki sitelen",
     "CREATE_THREAD": "o pali e tomo lili",
     "CREATE_VOICE_CHANNEL": "o pali e tomo pi toki uta",
     "CREATION_INTENT_DESCRIPTION": "mi wile pana pona tawa pali sina. sina wile e pona ni la, o pana e sona ni tawa mi: ma sin sina li tawa jan pona pi mute lili anu kulupu pi jan mute?",
