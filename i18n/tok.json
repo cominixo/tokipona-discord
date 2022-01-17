@@ -634,6 +634,7 @@
     "PROFILE": "lipu jan",
     "PROFILE_BANNER_ICON_TOOLTIP_UPSELL": "o pana e len jan musi e mute kepeken nasin Nito!",
     "PROFILE_CUSTOMIZATION_ACTIVITY_TIME": "lon tenpo $[](renderTimeHook)",
+    "PROFILE_CUSTOMIZATION_BIO_PLACEHOLDER": "o pana e sona sina lili tawa jan",
     "PROFILE_CUSTOMIZATION_NITRO_ICON_TOOLTIP": "nasin Nito taso",
     "PROFILE_CUSTOMIZATION_PREVIEW": "lukin kama",
     "QUICKSWITCHER_DRAFTS": "toki pi lon pali",
