@@ -36,26 +36,26 @@ ale ni la toki ante li lon.
 tenpo ni la ilo Siko sina la sina wile kepeken toki `en-GB` anu kepeken toki `en-US` lon toki ilo.
 ni li tan ni: namako ni li ante e toki pi kon ni.
 
-== toki mi
+== nasin pi toki mi
 
 * nimi "Mentions" (lon toki Inli) li nimi "toki wile".
   toki ni li pana tan ni: jan pi pana toki li wile e jan.
   tan ni la, mi pana e nimi "toki wile" tawa toki ni.
 * nimi "Notifications" (lon toki Inli) li nimi "toki kama".
-  toki ni li kama e lukin sina pi toki ni.
+  toki ni li kama e lon pi toki ni lon sina.
 * mi kepeken nimi "kule" tawa toki e ni: nimi "type" (lon toki Inli).
   wile ni la mi pilin e ni: nimi "kule" li pona. nimi "nasin jan" li pona ala.
-  nimi "kule" li kepeken kin e nasin lipu.
+  kin la nimi "kule" li kepeken pona lon nimi lipu.
 * nanpa lukin.
   toki ante ni li kepeken nimi tawa nanpa poka 0 tawa 10.
   nanpa ante ale li nanpa lukin (nasin nanpa Alapi).
-  nasin nanpa lon li lukin nasin pi nasa ala: pu namako ("pu extended" lon toki Inli).
+  nasin nanpa lon li lukin nasin pi nasa ala: pu namako (nimi "pu extended" lon toki Inli).
   ala (0), wan (1), tu (2), tu wan (3), tu tu (4), luka (5), luka wan (6), luka tu (7),
   luka tu wan (8), luka tu tu (9), luka luka (10).
     ** tenpo lukin li ante.
        mi wile awen e tenpo nanpa e sona tan ilo Siko.
        tan ni la, toki mi li kepeken lon toki Inli e nimi "seconds" e nimi "minutes" e nimi "hours".
-       nimi ni lon toki pona li tenpo ilo lili lili, li tenpo ilo lili, li tenpo ilo suli.
+       nimi ni lon toki pona li tenpo ilo lili, li tenpo ilo, li tenpo ilo suli.
        nasin ni la jan kepeken li wile ala sona e nasin tenpo sin.
        nasin ni la kama sona pi toki ni li pona.
 * mute pi nimi tan pu ala li lili. tan ni la, ni li lon: nasin nimi li pona. kama sona pi nimi ni
@@ -69,14 +69,14 @@ ni li tan ni: namako ni li ante e toki pi kon ni.
        mi wile ala kepeken nimi ni. nimi ku suli li ike ala, taso la, lon pi nimi ni li suli ala.
     ** nimi "linja" li toki e ni: ijo URL en nimi "connection" (lon toki Inli).
        toki ni li lon ala _lipu pu_. tenpo pu la tan pi toki ni li tenpo pini.
-    ** mi ken ala pilin e sama tawa nasin toki. ("grammar" lon toki Inli).
+    ** mi ken ala pilin e sama tawa nasin toki. (nimi "grammar" lon toki Inli).
        tenpo pini la mi jo ala e _lipu pu_ la, taso la mi kama sona e toki pona.
        ken la nasin toki mi li pu ala, nasin pi toki pali open ("preverbs" lon toki Inli) li pu ala.
        sina wile pona e ni la, mi wile e pona sina. o pana e pona tawa mi!
 
 == ijo pi ante ala
 
-* nimi pi sitelen lili ("Emojis" lon toki Inli).
+* nimi pi sitelen lili (nimi "Emojis" lon toki Inli).
   mi sona ala ante e nimi ni.
   mi pilin e ni: mi wile ala pali e pali ni.
   pali ni li wile e pali mute. ni li kiwen tawa mi.
@@ -110,8 +110,8 @@ sina wile la sina ken pana e pona tawa mi.
 mi toki pona lili.
 mi wile e ni: o pona e toki mi!
 
-sina wile kama sona mute e namako ni? {url-mapona}[o kama lon ma pona pi toki pona lon ilo Siko].
-mi lon tomo lili `ante-toki-pi-ilo-Siko`; tomo lili ni li lon anpa tomo `#pali-musi`.
+sina wile kama sona e namako ni anu seme? {url-mapona}[o kama lon ma pona pi toki pona lon ilo Siko].
+mi lon tomo lili `#ante-toki-pi-ilo-Siko`; tomo lili ni li lon insa pi tomo `#pali-musi`.
 lon tomo ni la mi mute li toki pi pali namako.
 
 https://github.com/cominixo/tokipona-discord[jan Komi] o, sina pona tawa mama pali.

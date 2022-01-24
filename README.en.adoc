@@ -40,7 +40,7 @@ apply, since this plugin overrides them.
   Messages of desire, or desirious messages, because ultimately a mention is a message sent for
   want of the person who is being mentioned.
 * Notifications are "toki kama".
-  They are messages that bring about your awareness of themselves.
+  They are messages that bring the presence of themselves to you.
 * "kule" is used for meaning "type".
   I think "kule" is clearer in terms of its usage as "type" than "nasin" is; this usage is
   also applied to terms like "file type", which is instead "kule lipu".
@@ -52,7 +52,8 @@ apply, since this plugin overrides them.
   luka tu wan (8), luka tu tu (9), luka luka (10).
     ** Time representation is a different story.
        As of now, to keep the specific times and avoid obscuring information the client is giving
-       to the user, for minutes and hours, tenpo ilo lili and tenpo ilo suli are used.
+       to the user, for seconds, minutes, and hours, tenpo ilo lili, tenpo ilo, and tenpo ilo suli
+       are used.
        This way is works well enough without requiring people to learn a different time system,
        or being unclear.
 * Non-pu words are kept as minimal as possible, for dialectical neutrality, as jan Sonja's dialect
