@@ -525,7 +525,7 @@
     "MESSAGE_ACTION_REPLY": "o toki tawa toki ni",
     "MESSAGE_DISPLAY_MODE_LABEL": "nasin pi sitelen toki",
     "MESSAGE_EDITED": "ante",
-    "MOBILE_REPLYING_TO": "sina toki tawa toki tan **{username}**",
+    "MOBILE_REPLYING_TO": "**{username}** la sina toki tawa toki ona",
     "MODERATION": "lawa",
     "MODERATOR_VIEW": "lukin pi jan lawa",
     "MODERATOR_VIEW_TOOLTIP": "lukin pi jan lawa li ken e ni: sina ken lukin e tomo lili len ale, tan jan ale kin.",
