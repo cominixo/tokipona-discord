@@ -41,9 +41,6 @@ apply, since this plugin overrides them.
   want of the person who is being mentioned.
 * Notifications are "toki kama".
   They are messages that bring the presence of themselves to you.
-* "kule" is used for meaning "type".
-  I think "kule" is clearer in terms of its usage as "type" than "nasin" is; this usage is
-  also applied to terms like "file type", which is instead "kule lipu".
 * Number representation.
   This translation uses words for numbers 0 through 10, and any larger simply displaying
   numeric amounts.

@@ -43,9 +43,6 @@ ni li tan ni: namako ni li ante e toki pi kon ni.
   tan ni la, mi pana e nimi "toki wile" tawa toki ni.
 * nimi "Notifications" (lon toki Inli) li nimi "toki kama".
   toki ni li kama e lon pi toki ni lon sina.
-* mi kepeken nimi "kule" tawa toki e ni: nimi "type" (lon toki Inli).
-  wile ni la mi pilin e ni: nimi "kule" li pona. nimi "nasin jan" li pona ala.
-  kin la nimi "kule" li kepeken pona lon nimi lipu.
 * nanpa lukin.
   toki ante ni li kepeken nimi tawa nanpa poka 0 tawa 10.
   nanpa ante ale li nanpa lukin (nasin nanpa Alapi).
