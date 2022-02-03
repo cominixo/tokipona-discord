@@ -556,6 +556,7 @@
     "NEW_GUILDS_DM_ALLOWED": "mi wile e toki tan ma jan",
     "NEW_MESSAGES": "toki sin {count, plural, =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}} li lon li open lon tenpo {timestamp, time, short}",
     "NEW_MESSAGES_ESTIMATED": "toki sin {count, plural, =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}} en toki sin mute kin li lon li open lon tenpo {timestamp, time, short}",
+    "NEW_MESSAGES_WITH_DATE": "\ntoki sin {count, plural, =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}} li lon li open lon tenpo {timestamp, time, short} lon {timestamp, date, long}\n",
     "NEW_THREAD": "tomo lili sin li lon",
     "NEW_UNREADS": "toki sin li lon",
     "NEXT": "kama",
