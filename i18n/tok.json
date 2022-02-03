@@ -393,6 +393,8 @@
     "GO_LIVE_TILE_SCREEN": "ilo sona pi !!{username}!!",
     "GO_TO_CHANNEL": "o tawa tomo",
     "GROUP_DM_ADD_FRIENDS": "o kama e jan pona tawa kulupu",
+    "GUILD_BANNER_NOTICE": "sina wile musi lon ma ni anu seme? o kama e len ma musi kepeken **wawa {boostsNeeded, plural, =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}} tawa ma.**",
+    "GUILD_BANNER_NOTICE_CTA": "o wawa e ma ni",
     "GUILD_CAP_PREMIUM_FEATURE_DESCRIPTION": "o ken e ni: sina ken kama lon ma 200.",
     "GUILD_CAP_PREMIUM_FEATURE_TITLE": "ma mute",
     "GUILD_DISCOVERY_TOOLTIP": "o alasa e ma pi jan ale",
