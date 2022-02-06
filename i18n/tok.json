@@ -898,6 +898,7 @@
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_013_HOOK": "a! $[!!{username}!!](usernameHook) o, sina lon!",
     "SYSTEM_MESSAGE_GUILD_MEMBER_SUBSCRIBED": "[!!{username}!!](usernameOnClick) li kama wawa e ma!",
     "SYSTEM_MESSAGE_GUILD_MEMBER_SUBSCRIBED_HOOK": "$[!!{username}!!](usernameHook) li kama wawa e ma!",
+    "SYSTEM_MESSAGE_JOIN_CALL": "o kama lon toki uta",
     "SYSTEM_MESSAGE_PINNED_MESSAGE": "$[!!{username}!!](usernameHook) li suli e toki lon tomo ni. o lukin e [toki suli ale](pinsActionOnClick).",
     "SYSTEM_MESSAGE_PINNED_MESSAGE_MOBILE": "[!!{username}!!](usernameOnClick) li suli e toki lon tomo ni. o lukin e [toki suli ale](pinsOnClick).",
     "SYSTEM_MESSAGE_PINNED_MESSAGE_NO_CTA": "[!!{username}!!](usernameOnClick) li suli e toki lon tomo ni.",

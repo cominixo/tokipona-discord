@@ -874,6 +874,7 @@
     "SYSTEM_MESSAGE_GUILD_MEMBER_JOIN_013_HOOK": "Yay you made it, $[!!{username}!!](usernameHook)!",
     "SYSTEM_MESSAGE_GUILD_MEMBER_SUBSCRIBED": "[!!{username}!!](usernameOnClick) just boosted the server!",
     "SYSTEM_MESSAGE_GUILD_MEMBER_SUBSCRIBED_HOOK": "$[!!{username}!!](usernameHook) just boosted the server!",
+    "SYSTEM_MESSAGE_JOIN_CALL": "Join the call",
     "SYSTEM_MESSAGE_PINNED_MESSAGE": "$[!!{username}!!](usernameHook) pinned a message to this channel. See all [pinned messages](pinsActionOnClick).",
     "SYSTEM_MESSAGE_PINNED_MESSAGE_MOBILE": "[!!{username}!!](usernameOnClick) pinned a message to this channel. See all [pinned messages](pinsOnClick).",
     "SYSTEM_MESSAGE_PINNED_MESSAGE_NO_CTA": "[!!{username}!!](usernameOnClick) pinned a message to this channel.",
