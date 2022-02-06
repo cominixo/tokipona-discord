@@ -1,17 +1,19 @@
 = discord-tokipona
 
-:lang: en-US
-:url-powercord: https://powercord.dev/
-:url-datamining: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
-:url-sil: https://iso639-3.sil.org/request/2021-043
-:url-mapona: https://discord.gg/z24kPmVZKw
+:lang:              en-US
+:url-powercord:     https://powercord.dev/
+:url-datamining:    https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
+:url-sil:           https://iso639-3.sil.org/request/2021-043
+:url-mapona:        https://discord.gg/z24kPmVZKw
 
 xref:README.adoc[o lukin e lipu ni lon toki pona].
 
 A work-in-progress {url-powercord}[Powercord] plugin to translate Discord into Toki Pona.
 
-The strings to be translated are currently gathered from the strings present in Discord-Datamining’s
-{url-datamining}[current.js] and are stored in `english.json`.
+The original strings are currently gathered from strings present in Discord-Datamining’s
+{url-datamining}[current.js]. The strings used in this translation in `mama_pi_ante_toki.json`.
+The strings in `mama_pi_ante_toki.json` should be consistent in meaning with the ones in this
+translation; they will only be updated only when the translations are updated to match them.
 
 == Usage
 

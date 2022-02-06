@@ -1,22 +1,25 @@
 = namako discord-tokipona
 
-:lang: tok
-:url-powercord: https://powercord.dev/
-:url-datamining: https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
-:url-sil: https://iso639-3.sil.org/request/2021-043
-:url-mapona: https://discord.gg/z24kPmVZKw
+:lang:              tok
+:url-powercord:     https://powercord.dev/
+:url-datamining:    https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
+:url-sil:           https://iso639-3.sil.org/request/2021-043
+:url-mapona:        https://discord.gg/z24kPmVZKw
 
 xref:README.en.adoc[There's an English version of this README].
 
 ni li namako tawa namako {url-powercord}[ilo Poweko] (nimi Powercord lon toki Inli).
 namako ni li pana e toki pona tawa ilo Siko (nimi Discord lon toki Inli).
 
-tan pi toki mama li lipu kon {url-datamining}[current.js], tan kulupu Discord-Datamining.
-sina ken lukin e lipu pi toki mama lon lipu `english.json`.
+toki mama lon poki ni li tan lipu {url-datamining}[current.js].
+lipu li tan kulupu pali Discord-Datamining.
+sina ken lukin e toki mama lon ante toki ni lon lipu `mama_pi_ante_toki.json`.
+nimi lon lipu `mama_pi_ante_toki.json` li wile kama sama kon pi ante toki ni;
+ante toki li kama jo e toki sin la, mi kama e sin tan toki mama tawa lipu `mama_pi_ante_toki.json`.
 
 == kepeken
 
-o sama (kepeken `git clone` anu sama nasin) e poki ni tawa poki namako pi ilo Poweko.
+o sama e poki ni tawa poki namako pi ilo Poweko. (kepeken nimi `git clone` lon ilo anu nasin sama)
 sina ken open e poki namako kepeken namako lawa (lon ilo Siko).
 
 .nasin Juni sama
