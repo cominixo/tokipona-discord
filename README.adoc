@@ -4,7 +4,7 @@
 :url-powercord:     https://powercord.dev/
 :url-datamining:    https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
 :url-sil:           https://iso639-3.sil.org/request/2021-043
-:url-mapona:        https://discord.gg/z24kPmVZKw
+:url-mapali:        https://discord.gg/PrVVDEDanU
 
 xref:README.en.adoc[There's an English version of this README].
 
@@ -110,8 +110,8 @@ sina wile la sina ken pana e pona tawa mi.
 mi toki pona lili.
 mi wile e ni: o pona e toki mi!
 
-sina wile kama sona e namako ni anu seme? {url-mapona}[o kama lon ma pona pi toki pona lon ilo Siko].
-mi lon tomo lili `#ante-toki-pi-ilo-Siko`; tomo lili ni li lon insa pi tomo `#pali-musi`.
+sina wile kama sona e namako ni anu seme? {url-mapali}[o kama lon ma pali pi toki pona lon ilo Siko].
+mi lon tomo `#ante-toki-pi-ilo-siko`; tomo ni li lon insa pi kulupu `pali ante`.
 lon tomo ni la mi mute li toki pi pali namako.
 
 https://github.com/cominixo/tokipona-discord[jan Komi] o, sina pona tawa mama pali.
