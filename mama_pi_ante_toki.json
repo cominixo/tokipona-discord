@@ -1076,6 +1076,7 @@
     "WELCOME_CTA_MESSAGE_TITLE": "Send your first message",
     "WELCOME_CTA_PERSONALIZE_TITLE": "Personalize your server with an icon",
     "WELCOME_CTA_SUBTITLE_ACTION_WITH_GUIDE": "Here are some steps to help you get started. For more, check out our [Getting Started guide]({guideURL}).",
+    "WELCOME_CTA_SUBTITLE_EXISTING_SERVER": "This is the beginning of this server.",
     "WELCOME_CTA_SUBTITLE_OWNER": "This is your brand new, shiny server.",
     "WELCOME_CTA_TITLE": "Welcome to\n\n!!{guildName}!!",
     "WELCOME_MESSAGE_SUBTITLE_CHANNEL": "This is the start of the !!{channelName}!! channel.",

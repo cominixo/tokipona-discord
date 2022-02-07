@@ -1103,6 +1103,7 @@
     "WELCOME_CTA_MESSAGE_TITLE": "o toki e toki nanpa wan sina",
     "WELCOME_CTA_PERSONALIZE_TITLE": "o sina e ma sina kepeken sitelen ma",
     "WELCOME_CTA_SUBTITLE_ACTION_WITH_GUIDE": "mi pana e ken ni tawa sina. ni li ken pona e open pi ma ni. sina wile e ijo mute la, o lukin e [lipu sona pi open ma]({guideURL}).",
+    "WELCOME_CTA_SUBTITLE_EXISTING_SERVER": "ni li open pi ma ni.",
     "WELCOME_CTA_SUBTITLE_OWNER": "ni li ma sin sina a.",
     "WELCOME_CTA_TITLE": "o kama pona tawa\n\n!!{guildName}!!",
     "WELCOME_MESSAGE_SUBTITLE_CHANNEL": "ni li open pi tomo !!{channelName}!!.",
