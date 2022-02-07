@@ -562,6 +562,7 @@
     "MUTUAL_FRIENDS": "Mutual Friends",
     "MUTUAL_GUILDS": "Mutual Servers",
     "NEW": "new",
+    "NEWS_CHANNEL": "Announcement Channel",
     "NEW_GROUP_DM": "New Group DM",
     "NEW_GUILDS_DM_ALLOWED": "Allow direct messages from server members",
     "NEW_MESSAGES": "{count, plural, one {1 new message} other {{count} new messages}} since {timestamp, time, short}",
