@@ -1,13 +1,30 @@
-all: FRC toki_mama_ale.json nimi_lon_toki_ale.txt mama_pi_ante_toki.json mute
-clean: FRC
-	rm -f toki_mama_ale.json nimi_lon_toki_ale.txt mama_pi_ante_toki.json
+url_toki_mama = \
+    https://raw.githubusercontent.com/Discord-Datamining/Discord-Datamining/master/current.js
 
 .DELETE_ON_ERROR:
 
-# fetch original language keys
+noop: FRC
+	@printf "%s\n" \
+	    "jan kepeken li wile ala kepeken ilo \"make\"." \
+	    "sina jan kepeken la, o lukin e lipu README."   \
+	    "sina jan pali la, o kepeken ilo \"make dev\"." \
+	    "[users don't need to run \"make\".]" \
+	    "[if you're a user, look at the README.]" \
+	    "[if you're a developer, use \"make dev\".]" \
+	    >&2
+
+dev: FRC toki_mama_ale.json nimi_lon_toki_ale.txt mama_pi_ante_toki.json mute
+clean: FRC
+	rm -f toki_mama_ale.json nimi_lon_toki_ale.txt mama_pi_ante_toki.json
+
+watch: FRC
+	${MAKE} -s dev
+	@rwc -p Makefile i18n/tok.json | xe -s "clear; ${MAKE} -s dev"
+
+# o kama jo e nimi lon toki mama.
+# [fetch original language keys.]
 toki_mama_ale.json:
-	curl -Lfs \
-	    https://raw.githubusercontent.com/Discord-Datamining/Discord-Datamining/master/current.js \
+	curl -Lfs ${url_toki_mama} \
 	    | sed 's/^\s*//' \
 	    | grep -E '^[A-Z][A-Z0-9_]{2,}:\s+".*",$$' \
 	    | grep -Ev \
