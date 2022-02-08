@@ -577,6 +577,7 @@
     "NEW_GUILDS_DM_ALLOWED": "Allow direct messages from server members",
     "NEW_MESSAGES": "{count, plural, one {1 new message} other {{count} new messages}} since {timestamp, time, short}",
     "NEW_MESSAGES_ESTIMATED": "{count}+ new messages since {timestamp, time, short}",
+    "NEW_MESSAGES_ESTIMATED_WITH_DATE": "{count}+ new messages since {timestamp, time, short} on {timestamp, date, long}",
     "NEW_MESSAGES_WITH_DATE": "\n{count, plural, one {1 new message} other {{count} new messages}} since {timestamp, time, short}\non {timestamp, date, long}\n",
     "NEW_THREAD": "New Thread",
     "NEW_UNREADS": "New Unreads",
