@@ -22,18 +22,36 @@ watch: FRC
 	@rwc -p Makefile i18n/tok.json | xe -s "clear; ${MAKE} -s dev"
 
 # o kama jo e nimi lon toki mama.
+# pali kepeken nasin ni li ike mute. :(
+# mi wile e ni: ilo Siko, o pana e toki lon nasin JSON taso tawa mi...
 # [fetch original language keys.]
+# [doing it this way is really bad. :(]
+# [I want this: Discord, please give strings to me using JSON only...]
 toki_mama_ale.json:
 	curl -Lfs ${url_toki_mama} \
-	    | sed 's/^\s*//' \
-	    | grep -E '^[A-Z][A-Z0-9_]{2,}:\s+".*",$$' \
+	    | sed "s/^\s*//" \
+	    | grep -E \
+	        -e "^[A-Z][A-Z0-9_]{2,}:\s+['\"].*['\"],$$" \
+	        -e "^e\.[A-Z][A-Z0-9_]{2,} = \".*\";$$" \
 	    | grep -Ev \
-	        -e '" \+ "?' \
-	        -e ': "hsl\(' \
-	        -e ': "#[a-fA-F0-9]{6}",$$' \
+	        -e "['\"] \+ ['\"]?" \
+	        -e ": ['\"]hsl\(" \
+	        -e ": ['\"]#[a-fA-F0-9]{6}['\"],$$" \
+	    | sed -E \
+	        -e "/^e\..* = \"([A-Z_]+|[a-z/_-]+|[a-z]+[A-Z][a-z]+)\";/d" \
+	        -e "/^e\./ { \
+	            s/^e\.//; \
+	            s/ = /: /; \
+	            s/;$$//; \
+	        }" \
 	    | sed -E \
 	        -e 's/,$$//; s/$$/,/' \
-	        -e 's/^(.+): "/"\1": "/' \
+	        -e "s/^(.+): \"/\"\1\": \"/" \
+	        -e "/^(.+): '(.*)',?/ { \
+	            s/\"/\\\\\"/g; \
+	            s/^(.+): '(.*)',?/\"\1\": \"\2\",/; \
+	            s/\\\'/'/g \
+	        }" \
 	        -e '1 { s/^/{/ }; $$ { s/,$$//; s/$$/}/ }' \
 	    | jq --indent 4 -S >toki_mama_ale.json
 
