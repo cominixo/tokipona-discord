@@ -531,6 +531,7 @@
     "MASKED_LINK_CONFIRM": "Yep!",
     "MASKED_LINK_TRUST_THIS_DOMAIN": "Trust this Domain",
     "MEMBER": "Member",
+    "MEMBERS": "Members",
     "MEMBERS_HEADER": "{members, plural, =0 {No Members} one {1 Member} other {{members} Members}}",
     "MEMBER_LIST": "Member List",
     "MEMBER_LIST_HIDDEN": "Show Member List",

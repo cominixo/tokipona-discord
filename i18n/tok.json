@@ -531,6 +531,7 @@
     "MASKED_LINK_CONFIRM": "pona!",
     "MASKED_LINK_TRUST_THIS_DOMAIN": "linja mama pi lipu ni li pona",
     "MEMBER": "jan lon",
+    "MEMBERS": "jan lon",
     "MEMBERS_HEADER": "jan {members, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{members}}}",
     "MEMBER_LIST": "lipu pi jan lon tomo",
     "MEMBER_LIST_HIDDEN": "o lukin e lipu pi jan lon",
