@@ -707,6 +707,7 @@
     "QUICKSWITCHER_DRAFTS": "Drafts",
     "QUICKSWITCHER_LAST_CHANNEL": "Last Channel",
     "QUICKSWITCHER_MENTIONS": "Mentions",
+    "QUICKSWITCHER_NOTICE": "Use Quick Switcher to get around Discord quickly. Just press:",
     "QUICKSWITCHER_PLACEHOLDER": "Where would you like to go?",
     "QUICKSWITCHER_PROTIP": "Start searches with $[](userSymbolHook) $[](textChannelSymbolHook) $[](voiceChannelSymbolHook) $[](guildSymbolHook) to narrow results. [Learn more]({helpdeskArticle})",
     "QUICKSWITCHER_TUTORIAL_MESSAGE_SEARCH": "Search for servers, channels or DMs",

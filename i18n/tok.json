@@ -707,6 +707,7 @@
     "QUICKSWITCHER_DRAFTS": "toki pi lon pali",
     "QUICKSWITCHER_LAST_CHANNEL": "tomo pi tenpo pini lili",
     "QUICKSWITCHER_MENTIONS": "toki wile",
+    "QUICKSWITCHER_NOTICE": "o tawa wawa lon ilo Siko kepeken ilo pi wawa alasa. o luka e nena:",
     "QUICKSWITCHER_PLACEHOLDER": "sina wile tawa seme?",
     "QUICKSWITCHER_PROTIP": "sina wile alasa pona la, o kepeken sitelen lili ni: $[](userSymbolHook) en $[](textChannelSymbolHook) en $[](voiceChannelSymbolHook) en $[](guildSymbolHook). [o kama sona]({helpdeskArticle})",
     "QUICKSWITCHER_TUTORIAL_MESSAGE_SEARCH": "o alasa e ma, e tomo, e toki",
