@@ -855,6 +855,8 @@
     "SEARCH_IN": "Search in {guildName}",
     "SEARCH_MOST_RELEVANT_SHORT": "Relevant",
     "SEARCH_NEWEST_SHORT": "New",
+    "SEARCH_NO_RESULTS": "We searched far and wide. Unfortunately, no results were found.",
+    "SEARCH_NO_RESULTS_ALT": "No results found. Empathy banana is here for you.",
     "SEARCH_OLDEST_SHORT": "Old",
     "SEARCH_TENOR": "Search Tenor",
     "SEASONAL_GIFTING_SPREAD_CHEER_TOOLTIP": "Spread some cheer! Gift Nitro in special holiday gift boxes.",

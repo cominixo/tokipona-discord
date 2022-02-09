@@ -855,6 +855,8 @@
     "SEARCH_IN": "o alasa lon {guildName}",
     "SEARCH_MOST_RELEVANT_SHORT": "pona",
     "SEARCH_NEWEST_SHORT": "sin",
+    "SEARCH_NO_RESULTS": "mi alasa lon ale a... mi ken ala alasa e ni.",
+    "SEARCH_NO_RESULTS_ALT": "mi ken ala alasa e ijo ni... taso... palisa jelo li wile pona. o kama pona kepeken ona.",
     "SEARCH_OLDEST_SHORT": "sin ala",
     "SEARCH_TENOR": "o alasa lon lipu Teno",
     "SEASONAL_GIFTING_SPREAD_CHEER_TOOLTIP": "o pana e pilin musi! o pana e nasin Nito kepeken poki pana musi pi tenpo musi.",
