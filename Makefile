@@ -19,7 +19,10 @@ clean: FRC
 
 watch: FRC
 	${MAKE} -s dev
-	@rwc -p Makefile i18n/tok.json | xe -s "clear; ${MAKE} -s dev"
+	@rwc -p Makefile i18n/tok.json | xe -s " \
+	    clear; \
+	    ${MAKE} -s dev \
+	        && PAGER=cat git diff ./i18n/tok.json ./mama_pi_ante_toki.json"
 
 # o kama jo e nimi lon toki mama.
 # pali kepeken nasin ni li ike mute. :(
