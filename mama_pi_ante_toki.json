@@ -116,6 +116,7 @@
     "BLOCKED_MESSAGES": "{count, plural, one {1 Blocked Message} other {{count} Blocked Messages}}",
     "BLOCKED_MESSAGES_HIDE": "{count, plural, one {Collapse message} other {Collapse messages}}",
     "BLOCKED_MESSAGES_SHOW": "{count, plural, one {Show message} other {Show messages}}",
+    "BLOCKED_MESSAGE_COUNT": "{count, plural, =0 {No blocked messages} one {{count} blocked message} other {{count} blocked messages}}",
     "BOT_CALL_IDLE_DISCONNECT": "It appears you've been by yourself in this call for more than five minutes. The bandwidth patrol has asked me to disconnect you to save bandwidth. That stuff doesn't grow on trees!",
     "BOT_TAG_BOT": "BOT",
     "CALL": "Call",

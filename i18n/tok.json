@@ -116,6 +116,7 @@
     "BLOCKED_MESSAGES": "toki ike {count, plural, =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}}",
     "BLOCKED_MESSAGES_HIDE": "o len e {count, plural, one {toki} other {toki mute}}",
     "BLOCKED_MESSAGES_SHOW": "o len ala e {count, plural, one {toki} other {toki mute}}",
+    "BLOCKED_MESSAGE_COUNT": "toki ike {count, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}}",
     "BOT_CALL_IDLE_DISCONNECT": "mi pilin e ni: lon tenpo ilo lili luka anu mute la sina taso li lon toki uta ni. jan lawa pi linja wawa li wile e ni tan mi: o weka e sina tan toki uta. ona li wile awen e wawa mute a!",
     "BOT_TAG_BOT": "ILO",
     "CALL": "o toki uta",
