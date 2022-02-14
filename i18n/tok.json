@@ -673,6 +673,7 @@
     "MUTE_DURATION_15_MINUTES": "lon tenpo ilo lili luka luka luka",
     "MUTE_DURATION_1_HOUR": "lon tenpo ilo suli wan",
     "MUTE_DURATION_24_HOURS": "lon tenpo pi tenpo suno",
+    "MUTE_DURATION_3_HOUR": "lon tenpo ilo suli tu wan",
     "MUTE_DURATION_8_HOURS": "lon tenpo ilo suli luka tu wan",
     "MUTE_DURATION_ALWAYS": "lon tenpo pi wile mi",
     "MUTE_GROUP_DM": "o kute ala e **!!{name}!!**",
