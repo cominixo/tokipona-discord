@@ -1188,6 +1188,7 @@
     "USER_PROFILE_ADD_FRIEND": "Add Friend",
     "USER_PROFILE_MESSAGE": "Message",
     "USER_PROFILE_MUTUAL_FRIENDS_PLACEHOLDER": "Mutual Friends",
+    "USER_PROFILE_MUTUAL_GUILDS": "{count, plural, =0 {0 Mutual Servers} one {1 Mutual Server} other {{count} Mutual Servers}}",
     "USER_PROFILE_MUTUAL_GUILDS_PLACEHOLDER": "Mutual Servers",
     "USER_SETTINGS": "User Settings",
     "USER_SETTINGS_ABOUT_ME": "About Me",
