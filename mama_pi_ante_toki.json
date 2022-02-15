@@ -430,6 +430,7 @@
     "FRIEND_REQUEST_ACCEPT": "Accept",
     "FRIEND_REQUEST_CANCEL": "Cancel",
     "FRIEND_REQUEST_IGNORE": "Ignore",
+    "FRIEND_REQUEST_NO_RESULTS_FOUND": "Wumpus looked, but couldn’t find anyone with that name.",
     "FULL_SCREEN": "Full Screen",
     "GAME_FEED_CURRENT_HEADER_TITLE": "Active Now",
     "GIFT_INVENTORY": "Gift Inventory",
