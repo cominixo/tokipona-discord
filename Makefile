@@ -1,6 +1,3 @@
-url_toki_mama = \
-    https://raw.githubusercontent.com/Discord-Datamining/Discord-Datamining/master/current.js
-
 .DELETE_ON_ERROR:
 
 noop: FRC
@@ -13,9 +10,9 @@ noop: FRC
 	    "[if you're a developer, use \"make dev\".]" \
 	    >&2
 
-dev: FRC toki_mama_ale.json nimi_lon_toki_ale.txt mama_pi_ante_toki.json mute
+dev: FRC toki_mama_ale.json nimi_taso_lon_toki_ale.txt mama_pi_ante_toki.json mute
 clean: FRC
-	rm -f toki_mama_ale.json nimi_lon_toki_ale.txt mama_pi_ante_toki.json
+	rm -f toki_mama_ale.json nimi_taso_lon_toki_ale.txt mama_pi_ante_toki.json
 
 watch: FRC
 	${MAKE} -s dev
@@ -31,49 +28,15 @@ watch: FRC
 # [doing it this way is really bad. :(]
 # [I want this: Discord, please give strings to me using JSON only...]
 toki_mama_ale.json:
-	curl -Lfs ${url_toki_mama} \
-	    | sed "s/^\s*//" \
-	    | grep -E \
-	        -e "^[A-Z][A-Z0-9_]{2,}:\s+['\"].*['\"],$$" \
-	        -e "^e\.[A-Z][A-Z0-9_]{2,} = \".*\";$$" \
-	    | grep -Ev \
-	        -e "['\"] \+ ['\"]?" \
-	        -e ": ['\"]hsl\(" \
-	        -e ": ['\"]#[a-fA-F0-9]{6}['\"],$$" \
-	    | sed -E \
-	        -e "/^e\..* = \"([A-Z_]+|[a-z/_-]+|[a-z]+[A-Z][a-z]+)\";/d" \
-	        -e "/^e\./ { \
-	            s/^e\.//; \
-	            s/ = /: /; \
-	            s/;$$//; \
-	        }" \
-	    | sed -E \
-	        -e 's/,$$//; s/$$/,/' \
-	        -e "s/^(.+): \"/\"\1\": \"/" \
-	        -e "/^(.+): '(.*)',?/ { \
-	            s/\"/\\\\\"/g; \
-	            s/^(.+): '(.*)',?/\"\1\": \"\2\",/; \
-	            s/\\\'/'/g; \
-	            s/^\"\\\\\"/\"/ \
-	        }" \
-	        -e '1 { s/^/{/ }; $$ { s/,$$//; s/$$/}/ }' \
-	    | jq --indent 4 -S >toki_mama_ale.json
+	./toki_mama.sh ./toki_mama_ale.json
 
 # list of keys existing in both the translation and in original language
-nimi_lon_toki_ale.txt: toki_mama_ale.json i18n/tok.json
-	jq -r 'keys[]' i18n/tok.json toki_mama_ale.json \
-	    | sort \
-	    | uniq -d \
-	    | sed 's/^/"/; s/$$/"/' > nimi_lon_toki_ale.txt
+nimi_taso_lon_toki_ale.txt: toki_mama_ale.json i18n/tok.json
+	./nimi_taso_lon_toki_ale.sh ./nimi_taso_lon_toki_ale.txt
 
 # list of original language keys used as basis for the translation
-mama_pi_ante_toki.json: nimi_lon_toki_ale.txt toki_mama_ale.json
-	grep -f nimi_lon_toki_ale.txt toki_mama_ale.json \
-	    | sed -E \
-	        -e 's/^\s*//' \
-	        -e 's/,$$//; s/$$/,/' \
-	        -e '1 { s/^/{/ }; $$ { s/,$$//; s/$$/}/ }' \
-	    | jq --indent 4 -S > mama_pi_ante_toki.json
+mama_pi_ante_toki.json: nimi_taso_lon_toki_ale.txt toki_mama_ale.json
+	./mama_pi_ante_toki.sh ./mama_pi_ante_toki.json
 
 # calculate amount of translation completed
 mute: FRC i18n/tok.json toki_mama_ale.json mama_pi_ante_toki.json
