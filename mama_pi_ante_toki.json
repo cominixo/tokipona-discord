@@ -780,6 +780,8 @@
     "PREMIUM_GUILD_HEADER_DROPDOWN_NITRO_SERVER_SUBSCRIBE": "Server Boost",
     "PREMIUM_GUILD_PERKS_MODAL_HEADER": "Server Boost Status",
     "PREMIUM_GUILD_SUBSCRIPTION": "Boost",
+    "PREMIUM_GUILD_SUBSCRIPTIONS_GOAL": "Goal: {levelName}",
+    "PREMIUM_GUILD_SUBSCRIPTIONS_PROGRESS_BAR_BLURB": "**{numBoosts, number}/{numTotal, number}** Boosts",
     "PREMIUM_GUILD_SUBSCRIPTION_NOTICE": "Server Boosts are here! Rally your community to boost your server.",
     "PREMIUM_GUILD_SUBSCRIPTION_NOTICE_BUTTON": "See Levels & Perks",
     "PREMIUM_GUILD_SUBSCRIPTION_NOTICE_SMALL_GUILD": "Server Boosts are here! Rally your friends to boost your server.",
