@@ -822,6 +822,7 @@
     "PREMIUM_FEATURES_PROFILE_CUSTOMIZATION_HEADER": "Style Your Profile",
     "PREMIUM_FEATURES_PROFILE_CUSTOMIZATION_SUBHEADER": "Express yourself with an animated avatar, profile banner, and custom tag.",
     "PREMIUM_GIFTING_BUTTON": "Gift",
+    "PREMIUM_GIFT_BUTTON_TOOLTIP": "Upgrade your friends! Gift them awesome chat perks with Nitro.",
     "PREMIUM_GUILD_BOOST_SERVER": "Boost Server",
     "PREMIUM_GUILD_HEADER_DROPDOWN_NITRO_SERVER_SUBSCRIBE": "Server Boost",
     "PREMIUM_GUILD_PERKS_MODAL_HEADER": "Server Boost Status",
