@@ -388,6 +388,7 @@
     "FORM_LABEL_ALL_MESSAGES_SHORT": "All",
     "FORM_LABEL_CHANNEL_NAME": "Channel Name",
     "FORM_LABEL_CHANNEL_TOPIC": "Channel Topic",
+    "FORM_LABEL_DEFAULT": "Use Server Default",
     "FORM_LABEL_DEFAULT_CATEGORY": "Use Category Default",
     "FORM_LABEL_DEFAULT_NOTIFICATION_SETTINGS": "Default Notification Settings",
     "FORM_LABEL_INPUT_MODE": "Input Mode",
