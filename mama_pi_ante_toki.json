@@ -1317,6 +1317,7 @@
     "VOICE_CHANNEL_UNMUTED": "Unmuted",
     "VOICE_SETTINGS": "Voice Settings",
     "WATCH_STREAM": "Watch Stream",
+    "WATCH_STREAM_TIP": "Double click user to watch",
     "WATCH_STREAM_WATCHING": "Watching Stream",
     "WAVE_TO": "Wave to !!{username}!!",
     "WELCOME_CHANNEL_EMOJI_PICKER_TOOLTIP": "Set an emoji for this channel!",
