@@ -813,6 +813,8 @@
     "PLAYING_GAME": "Playing **!!{game}!!**",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "POPOUT_PLAYER": "Pop Out",
+    "POPOUT_PLAYER_OPENED": "You've popped out the player to another window",
+    "POPOUT_RETURN": "Return to App",
     "POPOUT_STAY_ON_TOP": "Stay On Top",
     "PREMIUM": "Nitro",
     "PREMIUM_BADGE_TOOLTIP": "Subscriber since {date, date, medium}",
