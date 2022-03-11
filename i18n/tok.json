@@ -341,7 +341,7 @@
     "EMOJI_POPOUT_PREMIUM_UNJOINED_PRIVATE_GUILD_DESCRIPTION": "sitelen lili ni li tan ma len anu tan ma pi lon ala.",
     "EMOJI_POPOUT_PRIVATE_SERVER": "ma len",
     "EMOJI_POPOUT_PUBLIC_SERVER": "ma pi jan ale",
-    "EMOJI_POPOUT_STANDARD_EMOJI_DESCRIPTION": "sitelen lili li tan ilo Siko. sina ken kepeken sitelen lil ni lon ma ale.",
+    "EMOJI_POPOUT_STANDARD_EMOJI_DESCRIPTION": "sitelen lili li tan ilo Siko. sina ken kepeken sitelen lili ni lon ma ale.",
     "EMOJI_SLOTS_AVAILABLE": "poki sitelen lon {count, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}}",
     "EMOJI_TOOLTIP_CLICK_CTA": "o luka e ni la sina kama sona",
     "END_EVENT": "o pini e tenpo kulupu",
