@@ -836,7 +836,7 @@
     "PREMIUM_GUILD_SUBSCRIPTION_NOTICE_BUTTON": "See Levels & Perks",
     "PREMIUM_GUILD_SUBSCRIPTION_NOTICE_SMALL_GUILD": "Server Boosts are here! Rally your friends to boost your server.",
     "PREMIUM_GUILD_SUBSCRIPTION_TITLE": "Server Boost",
-    "PREMIUM_GUILD_SUBSCRIPTION_TOOLTIP": "Server boosting since {date, date, medium}",
+    "PREMIUM_GUILD_SUBSCRIPTION_TOOLTIP": "Server boosting since {date, date, medium}. Now restored to the oldest streak!",
     "PREMIUM_GUILD_TIER_0": "No Level",
     "PREMIUM_GUILD_TIER_1": "Level 1",
     "PREMIUM_GUILD_TIER_1_SHORT": "LVL 1",
