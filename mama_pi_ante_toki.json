@@ -709,6 +709,7 @@
     "MESSAGE_ACTION_REPLY": "Reply",
     "MESSAGE_DISPLAY_MODE_LABEL": "Message Display",
     "MESSAGE_EDITED": "edited",
+    "MFA_SMS_ALREADY_ENABLED": "Already Enabled!",
     "MFA_SMS_AUTH": "SMS Backup Authentication",
     "MFA_SMS_AUTH_CURRENT_PHONE": "Your current phone number is: !!{phoneNumber}!!.",
     "MFA_SMS_AUTH_SALES_PITCH": "Add your phone as a backup 2FA method in case you lose your authentication app or backup codes.",

@@ -709,6 +709,7 @@
     "MESSAGE_ACTION_REPLY": "toki ni la o toki",
     "MESSAGE_DISPLAY_MODE_LABEL": "nasin pi sitelen toki",
     "MESSAGE_EDITED": "ante",
+    "MFA_SMS_ALREADY_ENABLED": "ona li awen lon!",
     "MFA_SMS_AUTH": "nasin SMS li awen e nasin open tu",
     "MFA_SMS_AUTH_CURRENT_PHONE": "ilo toki la nanpa sina li: !!{phoneNumber}!!.",
     "MFA_SMS_AUTH_SALES_PITCH": "o kepeken ilo toki sina lon nasin open sin. sina ken ala kepeken nasin open pona sina anu nanpa awen pi nasin open tu sina la, sina ken kepeken nasin ni.",
