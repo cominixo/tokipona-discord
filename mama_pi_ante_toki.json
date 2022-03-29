@@ -332,6 +332,7 @@
     "EMOJI_CATEGORY_SYMBOLS": "Symbols",
     "EMOJI_CATEGORY_TRAVEL": "Travel",
     "EMOJI_FROM_GUILD": "from **!!{guildName}!!**",
+    "EMOJI_MATCHING": "Emoji matching **!!{prefix}!!**",
     "EMOJI_PICKER_CREATE_EMOJI_TITLE": "Upload an emoji to this server",
     "EMOJI_POPOUT_CURRENT_GUILD_DESCRIPTION": "This emoji is from this server. Get Nitro to use it everywhere.",
     "EMOJI_POPOUT_JOINED_GUILD_DESCRIPTION": "This emoji is from one of your servers. Get Nitro to use it everywhere.",
