@@ -14,6 +14,9 @@ dev: FRC toki_mama_ale.json nimi_taso_lon_toki_ale.txt mama_pi_ante_toki.json mu
 clean: FRC
 	rm -f toki_mama_ale.json nimi_taso_lon_toki_ale.txt mama_pi_ante_toki.json
 
+edit: FRC toki_mama_ale.json mama_pi_ante_toki.json
+	${EDITOR} ./i18n/tok.json ./mama_pi_ante_toki.json ./toki_mama_ale.json
+
 watch: FRC
 	${MAKE} -s dev
 	@rwc -p Makefile i18n/tok.json | xe -s " \
