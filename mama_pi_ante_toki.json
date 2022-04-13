@@ -1230,6 +1230,8 @@
     "UNARCHIVE": "Unarchive",
     "UNARCHIVE_THREAD": "Unarchive Thread",
     "UNBLOCK": "Unblock",
+    "UNBLOCK_TO_JUMP_BODY": "First unblock '!!{name}!!' and then you can jump to their message.",
+    "UNBLOCK_TO_JUMP_TITLE": "Soo... You Blocked This Person",
     "UNDEAFEN": "Undeafen",
     "UNFAVORITE_ITEM": "Unfavorite",
     "UNFOCUS_PARTICIPANT": "Unfocus This Person",

@@ -1231,6 +1231,8 @@
     "UNARCHIVE": "o open sin",
     "UNARCHIVE_THREAD": "o open sin e tomo lili",
     "UNBLOCK": "o weka e weka pi jan ni",
+    "UNBLOCK_TO_JUMP_BODY": "o ike ala e '!!{name}!!' la sina ken tawa toki ona.",
+    "UNBLOCK_TO_JUMP_TITLE": "a... jan ni li ike tawa sina",
     "UNDEAFEN": "o ken kute",
     "UNFAVORITE_ITEM": "ni li pona ala",
     "UNFOCUS_PARTICIPANT": "o suli ala e jan ni",
