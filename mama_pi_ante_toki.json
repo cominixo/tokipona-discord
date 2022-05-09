@@ -1212,7 +1212,7 @@
     "TOTAL_RESULTS": "{count, plural, =0 {No Results} one {{count} Result} other {{count} Results}}",
     "TUTORIAL_CLOSE": "Got it!",
     "TWO_FA": "Two-factor authentication",
-    "TWO_FA_BACKUP_CODES_BODY": "These codes will allow you to enter your account if you lose your\nauth app.  **Each code can only be used once! Any previously generated codes no longer work!**",
+    "TWO_FA_BACKUP_CODES_BODY": "These codes will allow you to enter your account if you lose your auth app, protect them like you would protect your password. Do not share them with anyone and keep them somewhere safe. \n\n**Each code can only be used once! Any previously generated codes no longer work!**",
     "TWO_FA_BACKUP_CODES_LABEL": "Backup Codes",
     "TWO_FA_BACKUP_CODES_WARNING": "Without your backup codes, you are at risk of **losing your account permanently** if you lose access to your authenticator app! Save these somewhere safe on and off your device to reduce the risk of losing your account!",
     "TWO_FA_DESCRIPTION": "Two-Factor authentication (2FA for short) is a good way to add an extra layer of security to your Discord account to make sure that only you have the ability to log in.",
