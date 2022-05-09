@@ -865,7 +865,7 @@
     "PREMIUM_GUILD_SUBSCRIPTION_NOTICE_BUTTON": "o lukin e ken wawa",
     "PREMIUM_GUILD_SUBSCRIPTION_NOTICE_SMALL_GUILD": "wawa ma li lon! sina pana e wawa tawa jan pona la ma li kama wawa!",
     "PREMIUM_GUILD_SUBSCRIPTION_TITLE": "kama wawa tawa ma",
-    "PREMIUM_GUILD_SUBSCRIPTION_TOOLTIP": "tenpo {date, date, medium} la ona li wawa e ma. wawa ni li kama mute wawa pi tenpo pini.",
+    "PREMIUM_GUILD_SUBSCRIPTION_TOOLTIP": "tenpo {date, date, medium} la ona li wawa e ma",
     "PREMIUM_GUILD_TIER_0": "wawa ma ala",
     "PREMIUM_GUILD_TIER_1": "wawa ma wan",
     "PREMIUM_GUILD_TIER_1_SHORT": "WAWA 1",
