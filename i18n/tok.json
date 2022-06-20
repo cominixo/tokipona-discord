@@ -969,7 +969,7 @@
     "RESET_NOTIFICATION_SETTINGS": "nasin pi toki kama li weka",
     "REVEAL": "o len ala",
     "ROLES": "poki jan",
-    "ROLES_LIST": "{numRoles, plural, =0 {jan li lon ala poki} =1 {poki jan wan} =2 {poki jan tu} =3 {poki jan tu wan} =4 {poki jan tu tu} =5 {poki jan luka} =6 {poki jan luka wan} =7 {poki jan luka tu} =8 {poki jan luka tu wan} =9 {poki jan luka tu tu} =10 {poki jan luka luka} other {poki jan {numRoles}}}",
+    "ROLES_LIST": "{numRoles, plural, =0 {poki jan ala} =1 {poki jan wan} =2 {poki jan tu} =3 {poki jan tu wan} =4 {poki jan tu tu} =5 {poki jan luka} =6 {poki jan luka wan} =7 {poki jan luka tu} =8 {poki jan luka tu wan} =9 {poki jan luka tu tu} =10 {poki jan luka luka} other {poki jan {numRoles}}}",
     "ROLE_CREATE_CTA": "o pali e poki",
     "ROLE_LIST_HEADER": "poki – {numRoles, plural, =0 {ala} =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{numRoles}}}",
     "ROLE_OVERVIEW_VIEW_MEMBERS": "o lukin e jan lon",
