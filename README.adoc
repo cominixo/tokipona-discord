@@ -1,14 +1,14 @@
 = namako discord-tokipona
 
 :lang:              tok
-:url-powercord:     https://powercord.dev/
+:url-replugged:     https://github.com/replugged-org/replugged
 :url-datamining:    https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
 :url-sil:           https://iso639-3.sil.org/request/2021-043
 :url-mapali:        https://discord.gg/PrVVDEDanU
 
 xref:README.en.adoc[There's an English version of this README].
 
-ni li namako tawa namako {url-powercord}[ilo Poweko] (nimi Powercord lon toki Inli).
+ni li namako tawa namako {url-replugged}[ilo Wipo] (nimi Replugged lon toki Inli).
 namako ni li pana e toki pona tawa ilo Siko (nimi Discord lon toki Inli).
 
 toki mama lon poki ni li tan lipu {url-datamining}[current.js].
@@ -19,20 +19,20 @@ ante toki li kama jo e toki sin la, mi kama e sin tan toki mama tawa lipu `mama_
 
 == kepeken
 
-o sama e poki ni tawa poki namako pi ilo Poweko. (kepeken nimi `git clone` lon ilo anu nasin sama)
+o sama e poki ni tawa poki namako pi ilo Wipo. (kepeken nimi `git clone` lon ilo anu nasin sama)
 sina ken open e poki namako kepeken namako lawa (lon ilo Siko).
 
 .nasin Juni sama
 [literal]
-$ cd "${XDG_DATA_HOME:-$HOME/.local/share}"/powercord/plugins
+$ cd "${XDG_DATA_HOME:-$HOME/.local/share}"/replugged/plugins
 $ git clone https://git.mutiny.red/somasis/discord-tokipona
 # -anu-
 $ git clone https://github.com/somasis/discord-tokipona
 
-lon namako lawa pi ilo Poweko la o luka e pali ijo "Load missing plugins" anu la o pini o open e
-ilo Poweko.
+lon namako lawa pi ilo Wipo la o luka e pali ijo "Load missing plugins" anu la o pini o open e
+ilo Wipo.
 
-sina wile e ni: lon namako lawa pi ilo Poweko la namako ni li lon.
+sina wile e ni: lon namako lawa pi ilo Wipo la namako ni li lon.
 
 ale ni la toki ante li lon.
 
@@ -85,7 +85,7 @@ ni li tan ni: namako ni li ante e toki pi kon ni.
 * nimi pi linja nasin.
   tenpo mute la, namako ni li ken ala ante e nimi ni;
   mute suli pi nimi ni li lon ala nimi lon toki mama.
-* lipu nasin pi ilo Poweko.
+* lipu nasin pi ilo Wipo.
   ken la ni li kiwen ala; mi lukin ala kin pali e ni.
 
 == sona pi lon pakala

@@ -1,14 +1,14 @@
 = discord-tokipona
 
 :lang:              en-US
-:url-powercord:     https://powercord.dev/
+:url-replugged:     https://github.com/replugged-org/replugged
 :url-datamining:    https://github.com/Discord-Datamining/Discord-Datamining/blob/master/current.js
 :url-sil:           https://iso639-3.sil.org/request/2021-043
 :url-mapali:        https://discord.gg/PrVVDEDanU
 
 xref:README.adoc[o lukin e lipu ni lon toki pona].
 
-A work-in-progress {url-powercord}[Powercord] plugin to translate Discord into Toki Pona.
+A work-in-progress {url-replugged}[Replugged] plugin to translate Discord into Toki Pona.
 
 The original strings are currently gathered from strings present in Discord-Datamining’s
 {url-datamining}[current.js]. The strings used in this translation in `mama_pi_ante_toki.json`.
@@ -17,19 +17,19 @@ translation; they will only be updated only when the translations are updated to
 
 == Usage
 
-Clone this repository into your Powercord plugins directory (it can be opened from the plugin
+Clone this repository into your Replugged plugins directory (it can be opened from the plugin
 manager in the client).
 
 .Unix-like systems
 [literal]
-$ cd "${XDG_DATA_HOME:-$HOME/.local/share}"/powercord/plugins
+$ cd "${XDG_DATA_HOME:-$HOME/.local/share}"/replugged/plugins
 $ git clone https://git.mutiny.red/somasis/discord-tokipona
 # -or-
 $ git clone https://github.com/somasis/discord-tokipona
 
-Then load missing plugins in Powercord, or restart it, if it's running.
+Then load missing plugins in Replugged, or restart it, if it's running.
 
-Make sure the plugin is enabled in the plugin section of Powercord's settings.
+Make sure the plugin is enabled in the plugin section of Replugged's settings.
 
 Then, the translation should apply.
 
@@ -79,7 +79,7 @@ apply, since this plugin overrides them.
 * Names of connections. (ex. Battle.net, Facebook, GitHub)
   Usually, these names can't be changed by this plugin's translation method;
   most occurences are not in the `en-US` strings.
-* Powercord's settings.
+* Replugged's settings.
   It's probably not difficult to do but I've just not bothered to look into how to do that yet.
 
 == Known issues
