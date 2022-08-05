@@ -1213,7 +1213,6 @@
     "THREAD_HEADER_NOTICE_JOIN": "sina wile lukin e toki kama, e tomo lili ni lon lipu tomo la, o kama lon tomo lili ni.",
     "THREAD_HEADER_NOTICE_LOCKED": "tomo lili ni li pini. tan pi pini ni li jan lawa. jan lawa taso li ken open sin e ni.",
     "THREAD_MESSAGE_COUNT": "toki {count, plural, =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}} ›",
-    "THREAD_MESSAGE_COUNT_MAX": "toki mute ›",
     "THREAD_NAME": "nimi pi tomo lili",
     "THREAD_STARTED_BY": "tan $[](usernameHook)",
     "THREE_USERS_TYPING": "**!!{a}!!** en **!!{b}!!** en **!!{c}!!** li kama toki...",
