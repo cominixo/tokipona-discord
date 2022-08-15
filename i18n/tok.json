@@ -1325,7 +1325,7 @@
   "USER_PROFILE_MUTUAL_FRIENDS_PLACEHOLDER": "jan pona pi sama mi",
   "USER_PROFILE_MUTUAL_GUILDS": "ma sama {count, plural, =1 {wan} =2 {tu} =3 {tu wan} =4 {tu tu} =5 {luka} =6 {luka wan} =7 {luka tu} =8 {luka tu wan} =9 {luka tu tu} =10 {luka luka} other {{count}}}",
   "USER_PROFILE_MUTUAL_GUILDS_PLACEHOLDER": "ma sama",
-  "USER_SETTINGS": "nasin sina ilo",
+  "USER_SETTINGS": "nasin ilo sina",
   "USER_SETTINGS_ABOUT_ME": "sona mi",
   "USER_SETTINGS_ABOUT_ME_DETAILS": "sina wile la sina ken kepeken nasin Markdown kepeken linja.",
   "USER_SETTINGS_ACCOUNT_CHANGE_EMAIL_PROMPT_DESKTOP": "o pana e nimi sin pi ilo toki Email e nimi open lon.",
