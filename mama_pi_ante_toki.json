@@ -1000,6 +1000,7 @@
     "SCOPE_GUILDS": "Know what servers you're in",
     "SCOPE_GUILDS_JOIN": "Join servers for you",
     "SCOPE_IDENTIFY": "Access your username, avatar, and banner",
+    "SCOPE_RPC_ACTIVITIES_WRITE": "Set your current activity",
     "SCREENSHARE_FRAME_RATE": "Frame Rate",
     "SCREENSHARE_QUALITY_TOOLTIP_NORMAL": "Streaming quality",
     "SEARCH": "Search",

@@ -1002,6 +1002,7 @@
   "SCOPE_GUILDS": "ona li ken sona e ma sina",
   "SCOPE_GUILDS_JOIN": "ona li ken kama lon ma tawa sina",
   "SCOPE_IDENTIFY": "ona li ken lukin e nimi sina e sitelen jan sina e len jan sina",
+  "SCOPE_RPC_ACTIVITIES_WRITE": "o ante e pana sina pi pali lon",
   "SCREENSHARE_FRAME_RATE": "tenpo suli pi kama sitelen",
   "SCREENSHARE_QUALITY_TOOLTIP_NORMAL": "wawa pi sitelen tawa",
   "SEARCH": "o alasa",
