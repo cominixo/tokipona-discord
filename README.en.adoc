@@ -41,8 +41,8 @@ apply, since this plugin overrides them.
 * Mentions are "toki wile".
   Messages of desire, or desirious messages, because ultimately a mention is a message sent for
   want of the person who is being mentioned.
-* Notifications are "toki kama".
-  They are messages that bring the presence of themselves to you.
+* Notifications are "kama toki".
+  They are things that bring about knowledge of message-arrivals to you.
 * Number representation.
   This translation uses words for numbers 0 through 10, and any larger simply displaying
   numeric amounts.
