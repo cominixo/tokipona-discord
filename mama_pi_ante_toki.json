@@ -752,6 +752,7 @@
     "MUTE_DURATION_15_MINUTES": "For 15 Minutes",
     "MUTE_DURATION_1_HOUR": "For 1 Hour",
     "MUTE_DURATION_24_HOURS": "For 24 Hours",
+    "MUTE_DURATION_3_HOURS": "For 3 Hours",
     "MUTE_DURATION_8_HOURS": "For 8 Hours",
     "MUTE_DURATION_ALWAYS": "Until I turn it back on",
     "MUTE_GROUP_DM": "Mute **!!{name}!!**",
