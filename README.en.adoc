@@ -17,8 +17,7 @@ translation; they will only be updated only when the translations are updated to
 
 == Usage
 
-Clone this repository into your Replugged plugins directory (it can be opened from the plugin
-manager in the client).
+Clone this repository into your Replugged plugins directory.
 
 .Unix-like systems
 [literal]

@@ -1,4 +1,4 @@
-= namako discord-tokipona
+= sin ilo discord-tokipona
 
 :lang:              tok
 :url-replugged:     https://github.com/replugged-org/replugged
@@ -19,8 +19,7 @@ ante toki li kama jo e toki sin la, mi kama e sin tan toki mama tawa lipu `mama_
 
 == kepeken
 
-o sama e poki ni tawa poki namako pi ilo Wipo. (kepeken nimi `git clone` lon ilo anu nasin sama)
-sina ken open e poki namako kepeken namako lawa (lon ilo Siko).
+o pana e ni tawa poki ilo pi ilo Wipo. (kepeken toki ilo `git clone` lon ilo anu nasin sama)
 
 .nasin Juni sama
 [literal]
@@ -39,7 +38,7 @@ ale ni la toki ante li lon.
 tenpo ni la ilo Siko sina la sina wile kepeken toki `en-GB` anu kepeken toki `en-US` lon toki ilo.
 ni li tan ni: namako ni li ante e toki pi kon ni.
 
-== nasin pi toki mi
+== nasin toki mi
 
 * nimi "Mentions" (lon toki Inli) li nimi "toki wile".
   toki ni li pana tan ni: jan pi pana toki li wile e jan.
